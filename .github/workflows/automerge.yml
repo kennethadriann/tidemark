@@ -1,0 +1,66 @@
+name: Auto-merge passing chapters to main
+
+# TIDEMARK is written one chapter per scheduled run. Each run works on its own
+# claude/** branch and records the self-audit verdict in notes/.last_run.
+# This workflow plays the role of the "git wrapper" described in CLAUDE.md:
+#   - AUDIT: PASS  -> fast-forward (or merge) the chapter into main
+#   - AUDIT: FAIL  -> do nothing; the draft stays quarantined on its branch
+on:
+  push:
+    branches:
+      - 'claude/**'
+
+# Allow the workflow to push the merge commit back to main.
+permissions:
+  contents: write
+
+# If several pushes land close together, handle them one at a time so two runs
+# can't race to move main.
+concurrency:
+  group: tidemark-automerge
+  cancel-in-progress: false
+
+jobs:
+  merge-pass-to-main:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out full history
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Merge to main when the self-audit passed
+        run: |
+          set -euo pipefail
+
+          if [ ! -f notes/.last_run ]; then
+            echo "No notes/.last_run on this push; nothing to merge."
+            exit 0
+          fi
+
+          # Normalize: "AUDIT: PASS" / "AUDIT: FAIL" -> strip whitespace.
+          STATUS="$(tr -d '[:space:]' < notes/.last_run)"
+          echo "notes/.last_run = '${STATUS}'"
+
+          if [ "${STATUS}" != "AUDIT:PASS" ]; then
+            echo "Audit did not pass; leaving the draft quarantined on ${GITHUB_REF_NAME}."
+            exit 0
+          fi
+
+          git config user.name "tidemark-automerge[bot]"
+          git config user.email "tidemark-automerge@users.noreply.github.com"
+
+          git fetch origin main
+          git checkout -B main origin/main
+
+          # The run branches from main and adds one chapter commit, so a
+          # fast-forward is the normal case. Fall back to a real merge only if
+          # main moved underneath us (e.g. a manual commit on main).
+          if git merge --ff-only "${GITHUB_SHA}"; then
+            echo "Fast-forwarded main to ${GITHUB_SHA}."
+          else
+            git merge --no-edit "${GITHUB_SHA}"
+            echo "main had diverged; created a merge commit."
+          fi
+
+          git push origin main
