@@ -1,0 +1,14 @@
+# TIDEMARK — chapter index
+
+| # | Title | Status |
+|---|-------|--------|
+| 00 | Front matter | done |
+| 01 | The Wrong Tense | done |
+| 02 | Be Boring | done |
+| 03 | Tier 22 | done |
+| 04 | The Ones Who Notice | done |
+| 05 | Under the Line | done |
+| 06 | The Kitchen at the Bottom of the World | done |
+| 07 | The Wall of People Who Haven't Died Yet | done |
+| 08 | The Boat With the Hole In It | done |
+| 09 | (next) | pending |
