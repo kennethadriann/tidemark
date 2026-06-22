@@ -26,3 +26,6 @@ The Pia decision. Adz expects the room to agree saving her is pointless; Tessie 
 
 ## Ch09 — What It Costs to Keep Bailing
 Same night, dead hours after the rescue. Adz and Sol awake by the fire — a real two-guarded-people talk. Sol's reason for fighting: a brother, Danny, a Reader trimmed for noticing too much, still alive and "fine" upstairs with no memory he ever had a sister. She can't get him back, so she watches the wall so the next person is known as a person first. Adz, raised on efficiency, finds he doesn't think it's stupid. Quiet ending: he can live with *for now*, and it's warmer than being right.
+
+## Ch10 — Nothing Added Back
+Next day. Adz reads the wall the way only a Reader can — not one name but the whole table, sorted by date. Every sentence is a subtraction; he hunts for ANY addition (promotion, correction, birth) and finds none. The level only ever drops, no tap, no balancing column. He gets the draw-down dread but has no word for it, and can't make it small enough to say to Tessie, so he lies, takes a spoon, and stirs the lugaw. Quiet, unsettled: "the level's dropping, and there's no tap."

@@ -12,4 +12,5 @@
 | 07 | The Wall of People Who Haven't Died Yet | done |
 | 08 | The Boat With the Hole In It | done |
 | 09 | What It Costs to Keep Bailing | done |
-| 10 | (next) | pending |
+| 10 | Nothing Added Back | done |
+| 11 | (next) | pending |
