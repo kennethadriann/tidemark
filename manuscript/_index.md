@@ -11,4 +11,5 @@
 | 06 | The Kitchen at the Bottom of the World | done |
 | 07 | The Wall of People Who Haven't Died Yet | done |
 | 08 | The Boat With the Hole In It | done |
-| 09 | (next) | pending |
+| 09 | What It Costs to Keep Bailing | done |
+| 10 | (next) | pending |

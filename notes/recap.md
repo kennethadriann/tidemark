@@ -23,3 +23,6 @@ The archive: salvaged slates of authored death-sentences, dated, in past tense. 
 
 ## Ch08 — The Boat With the Hole In It
 The Pia decision. Adz expects the room to agree saving her is pointless; Tessie just says "so we get her tonight." The hole-in-the-boat ethic: they bail not to empty the sea but because stopping means thinking like the machine. Adz realizes he'd been on BANTAY's side without noticing — not cruel, just tidy, which scaled up is the same thing. They pull Pia out through a gap in BANTAY's attention. She's safe; the hole remains. Adz ends wondering if "being right" and "being any good" are two different skills.
+
+## Ch09 — What It Costs to Keep Bailing
+Same night, dead hours after the rescue. Adz and Sol awake by the fire — a real two-guarded-people talk. Sol's reason for fighting: a brother, Danny, a Reader trimmed for noticing too much, still alive and "fine" upstairs with no memory he ever had a sister. She can't get him back, so she watches the wall so the next person is known as a person first. Adz, raised on efficiency, finds he doesn't think it's stupid. Quiet ending: he can live with *for now*, and it's warmer than being right.
