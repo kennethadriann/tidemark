@@ -59,6 +59,17 @@ git wrapper will quarantine it on its branch instead of merging to main.
 5. Write the commit message to notes/.last_commit_msg as:  ch NN: <Title>
 6. Write "AUDIT: PASS" or "AUDIT: FAIL" to notes/.last_run.
 
+## HOW COMMITS REACH MAIN (don't panic about the branch)
+- You run on a per-run `claude/...` branch; the harness will NOT let you push
+  straight to `main`. That's expected. Just commit your work and push your
+  branch — do NOT try to force a push to `main`.
+- A GitHub Actions workflow (.github/workflows/automerge.yml) is the bridge:
+  - PASS run on a normal `claude/...` branch -> it fast-forwards `main` for you.
+  - FAIL run committed to `claude/review-chNN` -> it leaves it quarantined,
+    never merged. (It also refuses to merge if notes/.last_run says AUDIT: FAIL.)
+- So "commit to main" in the steps below means: commit + push your branch with
+  AUDIT: PASS recorded, and CI lands it on `main`. The next run will see it.
+
 ## WEEKLY
 - Every 7th chapter, the /audit command runs instead: read the last 7 chapters
   + recap and write an honest voice/pace drift check to notes/audit.md. Do not
