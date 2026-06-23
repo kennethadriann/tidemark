@@ -16,5 +16,6 @@
 | 11 | Where Nobody's Counting | done |
 | 12 | Far Enough | done |
 | 13 | Where It Stops Reaching | done |
-| 14 | (weekly audit — no chapter) | done |
-| 15 | (next chapter) | pending |
+| 14 | (next chapter) | pending |
+
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit covering Ch7–13 completed 2026-06-23 (see notes/audit.md). Next audit due after Ch20._
