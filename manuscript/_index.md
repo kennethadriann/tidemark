@@ -16,5 +16,5 @@
 | 11 | Where Nobody's Counting | done |
 | 12 | Far Enough | done |
 | 13 | Where It Stops Reaching | done |
-| 14 | (weekly audit — no chapter) | pending |
+| 14 | (weekly audit — no chapter) | done |
 | 15 | (next chapter) | pending |
