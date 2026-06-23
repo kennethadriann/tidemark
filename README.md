@@ -40,8 +40,8 @@ instructions. Each run reconstructs state from the files, writes one chapter,
 and (per CLAUDE.md) commits to a per-run `claude/...` branch that
 `automerge.yml` fast-forwards onto `main`.
 
-<details>
-<summary>Routine prompt</summary>
+### Routine instructions
+This is the exact prompt the routine runs each time:
 
 ```
 You write TIDEMARK, a serialized novel, one chapter per run. Each run is a fresh
@@ -92,7 +92,6 @@ Write at most ONE chapter per run. Touch nothing outside this repo.
 
 send the new chapter to slack channel using the webhook
 ```
-</details>
 
 The routine also delivers each new chapter to a Slack channel via an
 [incoming webhook](https://api.slack.com/messaging/webhooks) (its URL is kept
