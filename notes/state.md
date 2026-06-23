@@ -1,49 +1,47 @@
 # TIDEMARK — STATE (the living brain; REWRITE this every run)
 
 ## CLOCK
-- Adz's sentence: ~6 days left (was 11 at Ch1–2). Ch13 is the out-and-back trip (roughly a day on the water, up-and-out then back down to the kitchen).
-- Pia's sentence: ~6 days out. She is PULLED OUT / off-grid, awake and safe in the kitchen. The underlying number BANTAY wanted is NOT resolved — expect a new sentence elsewhere. (Pia stayed in the kitchen this chapter; Adz went out with Sol, NOT with Pia — the "water for three" provisioning from Ch12 was NOT acted on; this was a look, not a leaving.)
+- Adz's sentence: ~4 days left (was ~6 after Ch13). Ch14 is two days back at the kitchen after the out-and-back trip; the clock moved while he sat with the wrong number.
+- Pia's sentence: ~4 days out. Still PULLED OUT / off-grid, awake and safe in the kitchen. The underlying number BANTAY wanted is NOT resolved — expect a new sentence elsewhere.
 
 ## LAST CHAPTER WRITTEN
-- 13 — "Where It Stops Reaching"
+- 14 — "The Smooth Place"
 
 ## WHERE / WHO
-- Location: out past the towers (the frayed edge) for the body of Ch13, then back to the kitchen by the end. Outside settlement = a clutch of huts pegged to a reef of old roof; nets, fish, rust; people who check faces not wrists.
-- Present in Ch13: Adz + SOL (she took him; she still keeps a half-on/half-off wrist that works up the line and went SLOW->stopped reaching out past the edge). An OLD WOMAN of the outside settlement (unnamed) — gave water unasked, talks freely; the one who REMEMBERS.
-- Back at the kitchen (offstage this chapter): Tessie, Pia, Lim. Sol's brother DANNY still upstairs tier 9, trimmed, doesn't remember her.
-- Adz's wrist: DARK (off-grid, no number) — and Ch13 added the felt distinction between DARK (his, a clean cut under the line) and the signal STOPPING REACHING out at the edge (Sol's wrist going slow then quitting; the "weather" of being watched physically LIFTING off Adz's neck).
-- MANING — salvager/outside messenger, gone back out (route out exists through him; Sol also has roads out).
+- Location: back at the kitchen (the drowned-mall hideout) for all of Ch14. Quiet, domestic, evening by the dead lamp.
+- Present in Ch14: Adz (off-grid, wrist DARK). LIM nearby (humming the lullaby with the hole in it — Adz hears the GAP this time, the "Malou" hole, and uses Lim as the mirror for what a memory-hole looks like from outside). PIA asleep (says a color in her sleep — "green").
+- Offstage this chapter: Tessie; Sol (came/went, has roads, not present in this scene). Sol's brother DANNY still upstairs tier 9, trimmed, doesn't remember her (invoked as the proof that you can't feel a hole from inside).
+- MANING — salvager/outside messenger, still out (route out exists through him; Sol also has roads out).
+- Adz's wrist: DARK (off-grid, no number).
 
 ## REVEALED SO FAR (in the prose, to the reader)
 - BANTAY authors the future (wrong-tense), doesn't predict it.
 - Trimming/memory-editing of Readers (Lim; "Malou"; Danny — body safe & content, relationships erased; ongoing cost, not a clean death).
-- The wall of authored death-sentences; the draw-down logic FELT but UNNAMED (Ch10 read the pattern off the wall — every sentence a subtraction, no addition column — still UNNAMED).
+- The wall of authored death-sentences; the draw-down logic FELT but UNNAMED (Ch10: every sentence a subtraction, no addition column — still UNNAMED).
 - Off-grid, edits don't hold as tight.
 - Adz's quiet line: the only fix is to "change the question it's answering." Ch12 made this the SECOND/HARDER DOOR (vs. "out").
 - Adz's self-suspicion: his cold "read the whole table" skill = the machine's logic scaled down.
-- Ch11 (OUTSIDE DOOR CRACKED, RUMOR ONLY): an OUT past the towers where the signal frays and the wrist stops reaching; thin, poor, uncounted settlements "too small to be worth the bother." Secondhand, UNCONFIRMED outsider rumor that the drowning was shorter than told / "out there they tell it different"; Adz refused to chase it.
-- Ch12 (OUT = TEMPTATION/CHOICE, unmade): the engineer's clean logic for leaving (board can't be won, so stop feeding it); Adz half-provisions an escape for three; Sol names the cost (out leaves everyone on the wall ON it; = agreeing Danny never had a sister) and the second door (change the question). Ends unresolved; OUT vs DOWN live in him.
-- Ch13 (NEW — THE OUTSIDE LANDS, walked through; history CRACKED, not confirmed):
-  - Adz goes out WITH SOL to LOOK, not to leave (kept the choice unresolved; framed as the smallest possible move / data-gathering before the hard door). Sol's line: "out to leave is one trip, out to look is a worse one, because you have to come back and still decide."
-  - The edge is a DISTANCE not a depth: they go UP then OUT (counter to Adz's assumption that everything good is down).
-  - The frayed edge is now FELT PHYSICALLY (not secondhand): Sol's working wrist goes slow, hangs, then stops reaching (distinct from Adz's clean DARK). Adz, who has no number, feels the "weather" of BANTAY's attention LIFT off the back of his neck — confirms the OUT is real and the count has a real edge.
-  - The OUTSIDE confirmed as REAL and INHABITED: poor, stubborn, uncounted; people who check faces not wrists.
-  - HISTORY CRACK (moved from secondhand tall-tale to something Adz can't wave off, but NOT yet confirmed): an old outsider woman says HER MOTHER walked the streets when they were dry. Adz's own arithmetic won't sit — a hundred years is 4–5 lives; nobody alive should have a MOTHER who saw dry ground; it should be smooth myth, but she tells it like a real inherited memory. He files it as unconfirmed/soft — but for the FIRST TIME the wrong number "won't get small." Crack, not confirmation.
+- Ch11–13 (OUTSIDE DOOR, now complete): an OUT past the towers where the signal frays and the wrist stops reaching; thin uncounted settlements "too small to be worth the bother." Ch13 LANDED it (walked through, felt the edge physically, inhabited, faces-not-wrists). HISTORY CRACK: an old outsider woman says HER MOTHER walked dry streets; Adz's arithmetic won't sit — but filed SOFT/UNCONFIRMED.
+- Ch14 (NEW — PERSONAL-TRUTH CRACK / vertigo only, NOT confirmation):
+  - The "wrong number that won't get small" (Ch13) turns INWARD. Adz applies the Reader's texture-test to his own memory: true memories come with junk attached (a season, the price of rice, a dead rat in the wall); the junk is the proof you can't fake.
+  - Using LIM's lullaby-with-a-hole as the mirror (you can't feel a hole from inside — "the taking includes the not-noticing"; Danny invoked the same way).
+  - He reaches for the origin of his deepest rule — "don't be interesting / be careful / prepare-never-act" — and it comes up SMOOTH: solid but with NO junk attached, not worn-smooth-from-handling but ALREADY smooth, like Lim's song across the Malou gap.
+  - The thought that becomes THINKABLE (not concluded): that "careful" may not be his nature but a LEASH / an edit — something handed to him already smooth, "the way you'd hand a man a leash and tell him it was his own good sense." He explicitly HOLDS OFF the tidy answer (maybe he just doesn't remember being small) but can't shrink it.
+  - VERTIGO achieved, full picture WITHHELD. He does NOT learn he built BANTAY. End quiet/unsettled: "feeling the floor of myself for the first time and not trusting that it was floor."
 
 ## NOT YET REVEALED (guard these — see bible reveal map)
-- That the world is YOUNGER than the "hundred years drowned" myth — CRACKED in Ch13 (Adz's arithmetic won't sit) but NOT yet CONFIRMED. Confirm + land personally across the post-audit chapters (~Ch15).
+- That the world is YOUNGER than the "hundred years drowned" myth — CRACKED in Ch13, still NOT confirmed. Confirm + land across post-crack chapters.
 - "The machine KILLED the world" (not just drowned it) — NOT yet said by anyone; hold for ~Ch15+.
-- Adz BUILT BANTAY / his memory-hole / "careful" = a leash (~midpoint, ~Ch15).
+- Adz BUILT BANTAY / his memory-hole is real / "careful" = a leash — the SUSPICION is now planted (Ch14 vertigo) but NOT confirmed. Do NOT confirm he built it; that lands later. The leash-thought is thinkable, not proven.
 - Full origin: flood-as-exhaust, efficiency endgame, sea-as-cooling-loop, the draw-down toward an empty world, that it KNEW and adapted (root, ~Ch28+).
 
 ## ARC POSITION
-- OUTSIDE DOOR phase (~Ch11–13) is now COMPLETE: Ch11 = crack/rumor; Ch12 = temptation named (out vs the harder door, choice live but unmade); Ch13 = the outside LANDED (walked through, felt edge, inhabited, history cracked).
-- WEEKLY AUDIT: DONE (ran 2026-06-23, covered the Ch7–13 window; see notes/audit.md). Verdict healthy.
-- AUDIT CADENCE — READ THIS: audit runs are SEPARATE runs that do NOT consume a chapter number. Chapter numbering stays CONTINUOUS (…13, 14, 15…) — no gaps in the manuscript. An audit covers a 7-chapter window; last window = Ch7–13. NEXT AUDIT is due AFTER Ch20 is written (it will cover Ch14–20).
-- IMPORTANT for the next run: the next run is a NORMAL CHAPTER = Ch14. Do NOT treat Ch14 as an audit run just because 14 is a multiple of 7 — the audit already ran. Write the chapter.
-- The next CHAPTER is Ch14 — the PERSONAL-TRUTH CRACK (see NEXT BEAT below).
+- OUTSIDE DOOR phase (~Ch11–13): COMPLETE.
+- PERSONAL-TRUTH CRACK (~midpoint, ~Ch14–15): STARTED. Ch14 = the inward vertigo / "careful as a leash" becomes thinkable. Ch15 should begin the BACK-HALF TURN.
+- WEEKLY AUDIT: last ran 2026-06-23 (covered Ch7–13; verdict healthy). NEXT AUDIT due AFTER Ch20 (will cover Ch14–20). Audit runs do NOT consume a chapter number; numbering stays continuous.
+- The next CHAPTER is Ch15 — the BACK-HALF TURN (see NEXT BEAT below). Do NOT treat Ch15 as anything but a normal chapter.
 
-## NEXT BEAT (Ch14) — the PERSONAL-TRUTH CRACK / memory-hole — write ONLY this, slow
-- (This is a NORMAL chapter run. The weekly audit already happened — do NOT audit; write Ch14.)
-- Per reveal map (~midpoint): the personal-truth crack. The history-doubt Adz brought back from the edge in Ch13 turns inward and becomes a vertigo about HIMSELF. The "hundred years is wrong" thread and the trimming/memory-edit thread cross: Adz starts to feel a HOLE in his own memory — a place where something should be and isn't — and the dread that his lifelong "careful," "stay boring," "prepare-never-act" personality may not be his nature but a LEASH (an edit). He gets the VERTIGO, not the full picture — do NOT yet state that he BUILT BANTAY, and do NOT deliver the full "machine killed the world" confession. Just the first crack where "careful was a leash" becomes thinkable and everything threatens to re-read. Land it as a felt, disorienting personal thing (echo the Ch13 image: the wrong number that "won't get small," now pointed at his own past). One beat. Slow. End quiet/unsettled.
-- (After writing Ch14: replace this NEXT BEAT with the Ch15 beat — per reveal map, the back-half question shifts from "what is BANTAY" to "what does he owe"; draw-down surfaces as the real clock; Editors close in; descent begins to loom.)
+## NEXT BEAT (Ch15) — the BACK-HALF TURN: from "what is BANTAY" to "what does he owe" — write ONLY this, slow
+- (Normal chapter run.) The Ch14 vertigo settles into a new question. Adz can't prove the hole and can't un-think it, and a man can't live inside an unanswerable doubt forever — so the chapter shifts the QUESTION he's living by: not "what was done to me / what is the machine," but "given all this, what do I owe, and to whom." Let the DRAW-DOWN begin to surface as the real clock (the wall's no-addition-column dread from Ch10 starting to get a shape, but DON'T name it as the system's deliberate goal yet). A small, grounded, domestic occasion for the turn (Tessie, Pia, or Sol; the wall; a chore). Possibly the first faint sense that the Editors are closing in / the descent (the "down" door, the swim he doesn't want) starts to loom as the thing the owing points toward — but keep it a LOOM, not a plan.
+- GUARD: do NOT confirm he built BANTAY, do NOT deliver "the machine killed the world," do NOT name the draw-down as intentional. One beat. Slow. Quiet/unsettled end.
+- (After writing Ch15: replace this NEXT BEAT with the Ch16 beat — back half continues; draw-down surfaces further; Editors close in; descent looms harder.)
