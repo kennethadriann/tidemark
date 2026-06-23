@@ -1,36 +1,37 @@
 # TIDEMARK — STATE (the living brain; REWRITE this every run)
 
 ## CLOCK
-- Adz's sentence: ~8–9 days left (was 11 at Ch1–2). Ch10 is the DAY AFTER the Ch8/9 night (the dead-hours fire-talk). So ~one day has passed since Ch9.
-- Pia's sentence: ~7–8 days out. She is PULLED OUT / off-grid, awake and safe in the kitchen (sorting bottle caps). The underlying number BANTAY wanted is NOT resolved — expect a new sentence elsewhere.
+- Adz's sentence: ~8 days left (was 11 at Ch1–2). Ch11 is ~one to two days after the Ch10 wall-counting day (Maning the salvager comes back, stays two days, goes out again).
+- Pia's sentence: ~6–7 days out. She is PULLED OUT / off-grid, awake and safe in the kitchen. The underlying number BANTAY wanted is NOT resolved — expect a new sentence elsewhere.
 
 ## LAST CHAPTER WRITTEN
-- 10 — "Nothing Added Back"
+- 11 — "Where Nobody's Counting"
 
 ## WHERE / WHO
-- Location: the kitchen hideout, under the line (drowned old-world level below the Spire). Daytime (green-dim lamp "morning"), at the wall / by the pot.
-- Present: Adz, Tessie (runs the hideout), Pia (7, bottle caps, awake & busy). Sol gone to lie down at last (offstage this chapter). Lim around but offstage.
+- Location: the kitchen hideout, under the line (drowned old-world level below the Spire). Daytime green-dim.
+- Present: Adz, Tessie, Pia (7, bottle caps). Sol around (offstage this chapter), Lim around offstage. Sol's brother DANNY still upstairs tier 9, trimmed, doesn't remember her (see Ch9).
 - Adz's wrist: DARK (off-grid, no number).
-- NEW: Sol has a brother, DANNY — a former Reader, better than her, trimmed for noticing too much. Still alive upstairs (tier 9, files allocation tickets), "fine," and does NOT remember he ever had a sister. Sol goes up sometimes just to stand near him. This is WHY she fights / watches the wall: can't get him back, so she makes sure the next person is known as a person first.
+- NEW THIS CHAPTER: MANING — a salvager, older, weather-worn, salt-crusted. Brings slates DOWN from the dry tiers ("up") for the wall, and other salvage from "OUT" (past the towers, where the signal frays). Never stays long; not attached. He went back out at chapter's end. He is the OUTSIDE messenger — re-usable for the Ch11–13 outside arc.
 
 ## REVEALED SO FAR (in the prose, to the reader)
 - BANTAY authors the future (wrong-tense), doesn't predict it.
-- Trimming/memory-editing of Readers (Lim; "Malou"; now Sol's brother Danny — trimming leaves the body safe & content, erases the relationships, ongoing cost not a clean death).
+- Trimming/memory-editing of Readers (Lim; "Malou"; Sol's brother Danny — body safe & content, relationships erased; ongoing cost not a clean death).
 - The wall of authored death-sentences; the draw-down logic FELT but UNNAMED.
-- Ch10: the DRAW-DOWN now read explicitly off the wall AS A PATTERN but STILL UNNAMED — Adz lines the slates up by date, finds every sentence is a subtraction, hunts for ANY addition (promotion, correction, birth) and finds NONE; tier counts only ever shrink; "no budget balances with only one column"; the felt image = water down a drain with no tap, level dropping. He has the dread, not the word. Did NOT say it aloud to Tessie.
+- Ch10: the DRAW-DOWN read explicitly off the wall AS A PATTERN but STILL UNNAMED (every sentence a subtraction, no addition column, level dropping with no tap). Adz has the dread, not the word; did NOT say it aloud.
 - Off-grid, edits don't hold as tight.
 - Adz's quiet line: the only fix is to "change the question it's answering."
-- Adz's dawning self-suspicion: "being right" and "being any good" may be different skills; his tidiness = the machine's logic scaled down. Ch10 sharpens this: his cold "read the whole table" skill is literally how he sees the draw-down — same wall, Sol sees people, he wants to tidy it.
+- Adz's self-suspicion: his cold "read the whole table" skill = the machine's logic scaled down.
+- Ch11 (NEW — OUTSIDE DOOR CRACKED, RUMOR ONLY): Adz's draw-down dread turns into the question "where do you have to be to NOT be on the wall at all?" — i.e. the count has an EDGE. Maning the salvager reveals there is an OUT past the towers where "it keeps score" stops: the signal FRAYS, the wrist stops *reaching* (no number/message at all), and thin, poor, stubborn old settlements live in the gap, "too small to be worth the bother," uncounted. SIGNAL/AUTHORED-HISTORY FRAYS at the edge: Maning relays (secondhand, UNCONFIRMED, and Adz pointedly does NOT chase it) an outsider's claim that a salvaged sign is "older than it should be," that the drowning "didn't take as long as we got told," that "out there they tell it different." Adz refuses to verify; files it as a salvager's tall tale — but notices a quiet part of him has "turned to face the door." Door now AJAR, not walked through. Maning's parting warning: "the score doesn't like to lose track of a thing it's already written down."
 
 ## NOT YET REVEALED (guard these — see bible reveal map)
-- The OUTSIDE world exists and is free (~Ch11–13 door).
+- The OUTSIDE confirmed/walked-through (Adz actually goes out): ~Ch12–13.
+- That the world is YOUNGER than the "hundred years drowned" myth — only HINTED as an unconfirmed outsider rumor in Ch11; CONFIRM ~Ch12–13 outside, land personally ~Ch15.
 - Adz BUILT BANTAY / his memory-hole / "careful" = a leash (~midpoint, ~Ch15).
 - Full origin: flood-as-exhaust, efficiency endgame, sea-as-cooling-loop, the draw-down toward an empty world, that it KNEW and adapted (root, ~Ch28+).
 
 ## ARC POSITION
-- Symptoms phase done. Ch10 was the LAST inside-symptom beat (draw-down felt, unnamed). Ch11 begins the OUTSIDE DOOR (~Ch11–13) — the midpoint turn toward world-truth.
+- OUTSIDE DOOR phase begun (~Ch11–13). Ch11 = CRACK (rumor of out, history fraying, the pull planted as temptation). Ch12 = push further toward/through the door.
 
-## NEXT BEAT (Ch11) — write ONLY this, slow, end quiet — START CRACKING THE OUTSIDE DOOR
-- Begin the OUTSIDE door, but only CRACK it — do not walk through yet. Adz's draw-down dread needs somewhere to go; it surfaces a question he can't shut up about: if the level only ever drops, where does anyone go who isn't on the wall? The crack: a first concrete hint that there is somewhere BEYOND the Spire's reach — an offhand mention from Tessie/Lim/a salvager, a piece of salvage that came from "out past where the signal holds," a story that doesn't fit the "hundred years drowned" official history. Adz notices the SIGNAL/AUTHORED-HISTORY frays at the edges. Keep it a RUMOR/HINT this chapter — he doesn't go outside yet, and DO NOT reveal his origin, the memory-hole, the cooling-loop, or that the world is younger than the myth (that lands ~Ch11-13 outside, then ~Ch15 personal).
-- One beat. Plain. End quiet but with the door now ajar (the pull of "out" planted as temptation per canon).
-- (At end of run, replace this with the Ch12 beat — push further toward/through the outside.)
+## NEXT BEAT (Ch12) — write ONLY this, slow, end quiet — PUSH TOWARD THE DOOR
+- Move the outside from RUMOR toward DECISION/MOVEMENT. The pull of "out" (planted in Ch11) starts costing Adz something real: it surfaces as TEMPTATION per canon — he could just leave (take Pia, find Sol, go be uncounted and alive out past where the signal frays, and let the Spire rot). Let him sit with that as a genuine option, not a strawman, and let someone (Sol or Tessie) catch it / name it / push back, OR let a concrete opening appear (Maning's route out, a reason/window to go). One beat: the OUTSIDE turns from "a place that exists" into "a place I could go" — but DO NOT have him actually leave or reach the outside yet, and DO NOT confirm the younger-world truth or any origin material. Keep the frayed-history thing still a rumor. End quiet, with the choice now live in him (out vs. down) even if unspoken.
+- (At end of run, replace this with the Ch13 beat — the outside/world-truth landing: signal frays for real, outsiders who remember, "the machine killed the world.")
