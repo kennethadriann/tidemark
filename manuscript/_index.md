@@ -19,6 +19,7 @@
 | 14 | The Smooth Place | done |
 | 15 | Something to Stand On | done |
 | 16 | He Carried It Down Himself | done |
-| 17 | (next chapter) | pending |
+| 17 | The First Inch | done |
+| 18 | (next chapter) | pending |
 
 _Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit covering Ch7–13 completed 2026-06-23 (see notes/audit.md). Next audit due after Ch20._
