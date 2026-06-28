@@ -1,6 +1,15 @@
 name: Deploy reading site to Pages
 
 on:
+  # A finished chapter lands on main via the "Auto-merge passing chapters to
+  # main" workflow, which pushes with the default GITHUB_TOKEN. GitHub does NOT
+  # fire `push`-triggered workflows for GITHUB_TOKEN pushes (it prevents
+  # recursive runs), so an `on: push` trigger alone never sees new chapters.
+  # We therefore deploy when that workflow *completes*. The `push` trigger below
+  # still covers human commits/PR merges to main (real credentials).
+  workflow_run:
+    workflows: ["Auto-merge passing chapters to main"]
+    types: [completed]
   push:
     branches: [main]
     paths:
@@ -22,8 +31,17 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
+    # On a workflow_run event, only deploy if the automerge run succeeded. A
+    # quarantined chapter leaves main unchanged; a pass that merged nothing just
+    # rebuilds the same site, which is harmless.
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
     steps:
       - uses: actions/checkout@v4
+        with:
+          # Always build the current tip of main. On a workflow_run event the
+          # default checkout ref is the upstream run's head (a claude/** commit),
+          # not the freshly-merged main, so pin main explicitly.
+          ref: main
       - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
