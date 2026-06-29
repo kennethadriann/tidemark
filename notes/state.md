@@ -41,8 +41,8 @@
 - OUTSIDE DOOR phase (~Ch11–13): COMPLETE.
 - PERSONAL-TRUTH CRACK (~Ch14–15): COMPLETE.
 - BACK HALF (~Ch16–24): UNDERWAY. Ch16 = owing's first claim. Ch17 = first inch (the when). Ch18 = the when lands, near clock becomes a spending number, route on the table. Ch19 = the lazy escape (delegate) dies; not-acting now costs as much as acting; cheap door gone. Ch20 = the prep turns physical/bodily; the hallway runs out of hallway; the packed bag stands unmovable, can't be shouldered or put away. The screw has turned four notches without a step. Draw-down keeps surfacing as the real clock; Editor/score pressure to be brushed harder soon; descent ("down") still a faint background draft (untouched in Ch20).
-- WEEKLY AUDIT: DUE NOW — next run is the /audit run (covers Ch14–20), NOT a chapter. Last audit ran 2026-06-23 (covered Ch7–13; healthy). The audit run does NOT consume a chapter number.
-- After the audit, the next CHAPTER is Ch21.
+- WEEKLY AUDIT: DONE 2026-06-29 (covered Ch14–20; see notes/audit.md). Voice on-model & continuity clean, but TWO flags carried into Ch21: (1) the chapter-ending profound-one-liner streak is now 7-for-7 and MUST break at Ch21 — end flat, no aphorism; (2) Ch16–20 are five straight non-decision notches — Ch21 is the LAST allowed notch, Ch22 must actually move. Also retire the "I want to put this down carefully, it's the whole chapter" narrator tic and bench the "some nights the owing only asks" refrain. Next audit due after Ch27.
+- The next CHAPTER is Ch21.
 
 ## NEXT BEAT (Ch21) — the BODY moves first: the first bodily step toward the going, ahead of the decision — write ONLY this, slow
 - NOTE: the very next run is the WEEKLY AUDIT (covers Ch14–20), which writes NO chapter. This beat is for the chapter AFTER the audit (Ch21).

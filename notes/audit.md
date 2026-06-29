@@ -33,3 +33,36 @@
 3. Hold the reveal line in Ch14: vertigo only. Do NOT state Adz built BANTAY, do NOT deliver "the machine killed the world." Just make "careful was a leash" thinkable.
 
 *(Audit run — no chapter written. Next chapter is Ch14.)*
+
+---
+
+## 2026-06-29 — Weekly drift check (window: Ch14–20)
+
+**Verdict: voice still on-model, continuity clean — but two flags. The last audit's #1 fix was IGNORED for seven straight chapters, and the back half is at a real pacing inflection. Fix both at Ch21.**
+
+*(Numbering note: audit run, no chapter taken. Next written chapter is Ch21.)*
+
+### Voice — still good, but tics are hardening (worse than last week)
+- The good is still good: plain, dry, first-person past, real texture. "Counting twice is the one religious practice I have," Tessie as "furniture that's in the way," the fish-and-a-Director joke, "the lugaw doesn't care," "I'll memorize the shape of a catastrophe and not know what day the bread comes." Keep all of it.
+- **DRIFT #1 — THE ENDING BUTTON, NOT FIXED.** Last audit's top fix was: break the profound-chapter-ending-one-liner streak at least once. It was not broken once in seven chapters. Every single one ends on a reaching line of meaning: Ch14 "not trusting that it was floor," Ch15 "exactly which door it's coming from," Ch16 "won't be back to collect," Ch17 "the kind of man who can stand to go get it," Ch18 "it starts counting itself," Ch19 "no one between you to send," Ch20 "a place you can stand." This is now the single loudest AI tell in the book. Ch21 MUST end flat — a plain action, a mid-gesture, the lugaw, anything that isn't a closing aphorism. Not negotiable this time.
+- **DRIFT #2 — new narrator crutch.** "I want to put this down carefully / plainly, because it's small and it's the whole of the chapter and it isn't anything you could watch happen" now appears in basically every chapter (Ch15, 16, 17, 18 "it's the whole of the chapter and it isn't an event," 19 "it's small and it's the whole chapter," 20). It's a self-aware narrator flagging "nothing happens here" — and repeated this often it advertises the slow-burn machinery instead of hiding it. Retire the move. Trust the prose to be quiet without announcing that it's about to be.
+- **DRIFT #3 — refrain doubling, as warned.** "Some nights/mornings the owing only asks…" used near-verbatim Ch16 AND Ch17 — bench it, do not make it three. "the spot where the weather used to press" / "weather on your neck" recurs Ch14/15/18/20. "Eleven and a heel, three down" is now a static go-to image (Ch15/18/20) — either move the count or stop leaning on it.
+
+### Pace — the bigger problem this week
+- One-beat discipline is technically intact: Ch14 personal crack, Ch15 the owing-floor, Ch16 Maning's name, Ch17 asks the when, Ch18 the when lands, Ch19 can't delegate, Ch20 hands pack the bag. Each turns a distinct micro-screw.
+- BUT Ch16–20 are FIVE consecutive chapters of the same man not-deciding the same thing (go up after Maning), each ending in an explicit non-decision ("I didn't go. I didn't decide a thing"). Last audit flagged Ch11–13 for orbiting one theme for three chapters and said don't linger. This is that risk doubled and sharper, because it's the identical internal stall re-described five times. Slow burn is not the same as a held breath. The micro-progressions are well-built, but diminishing returns have set in — the reader can feel the wheel spinning in place.
+- Ch20's body-ahead-of-will turn (hands packing the bag) is the freshest beat of the run and the right move. The trouble: the planned Ch21 beat is ANOTHER body-ahead-of-will non-decision (shoulders/carries the bag but still doesn't climb). That's a sixth straight notch. **Make Ch21 the LAST notch.** The non-decision well is dry after it. Whatever comes at Ch22 must actually break — a step taken, a sweep that forces his hand, a real commit — not a seventh "and still I didn't decide."
+
+### Continuity / reveal-map — clean, no errors
+- Nothing revealed ahead of the map. "Careful was a leash" stays a suspicion: planted Ch14, deliberately set down unanswered Ch15–20. Correct.
+- History-younger crack (Ch13) untouched for six chapters — fine, it's parked, but it's gone fully quiet; consider a faint touch in the next window so it doesn't go cold before its confirmation arc.
+- Jugs (eleven and a heel, three down), Maning's slate (dated out, days not hours), wrist DARK, draw-down felt-but-unnamed, "change the question" thread — all consistent across chapters and with state.md/canon. No contradictions found.
+
+### Concrete fixes for Ch21+
+1. **End Ch21 flat.** No closing aphorism. This is the second time of asking.
+2. **Cut the "I want to put this down carefully, it's the whole chapter" narrator move.** Once, maybe. Every chapter, no.
+3. **Bench "some nights the owing only asks," "weather on the neck," "eleven and a heel."**
+4. **Treat Ch21 as the final non-decision notch.** Plan Ch22 to actually move — the stall cannot survive a seventh chapter.
+5. Hold the reveal line as before: no "he built it," no "machine killed the world," no named draw-down.
+
+*(Audit run — no chapter written. Next chapter is Ch21.)*
