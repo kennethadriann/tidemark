@@ -23,6 +23,7 @@
 | 18 | The Shape of Days | done |
 | 19 | Send Word | done |
 | 20 | Something for the Bag | done |
-| 21 | (next chapter) | pending |
+| 21 | The Foot of It | done |
+| 22 | (next chapter) | pending |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit covering Ch7–13 completed 2026-06-23 (see notes/audit.md). Next audit due after Ch20._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit covering Ch14–20 completed 2026-06-29 (see notes/audit.md). Next audit due after Ch27._
