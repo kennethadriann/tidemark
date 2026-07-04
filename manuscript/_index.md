@@ -27,6 +27,7 @@
 | 22 | The Cold Part | done |
 | 23 | Back Under the Weather | done |
 | 24 | Where People Had Been | done |
-| 25 | (next chapter) | pending |
+| 25 | A Man Passing Through | done |
+| 26 | (next chapter) | pending |
 
 _Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit covering Ch14–20 completed 2026-06-29 (see notes/audit.md). Next audit due after Ch27._
