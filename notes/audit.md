@@ -66,3 +66,43 @@
 5. Hold the reveal line as before: no "he built it," no "machine killed the world," no named draw-down.
 
 *(Audit run — no chapter written. Next chapter is Ch21.)*
+
+---
+
+## 2026-07-07 — Weekly drift check (window: Ch21–27)
+
+**Verdict: the strongest window yet. Both standing fixes from the last two audits LANDED — the ending-button streak is broken and the stall broke and stayed broken. Voice on-model, continuity clean. One new structural risk forming (a waystation template) and two motifs that tripled. Fix at Ch28.**
+
+*(Numbering note: audit run, no chapter taken. Next written chapter is Ch28.)*
+
+### The two big prior fixes — both DONE
+- **ENDING BUTTON — FIXED.** After seven straight aphorism endings got flagged twice, Ch21–27 end flat or on motion every single time: "We ate." / "going." / "getting nearer." / "in the open." / "going on." / "before I went on." / "and so did I." This was the loudest AI tell in the book and it is now gone. Do NOT relapse — no chapter in the next window should end on a closing line of meaning either.
+- **THE STALL — BROKEN, and stayed broken.** Ch21 was the last non-decision notch (bag to the water's edge, flat "We ate"); Ch22 he actually GOES; Ch23–27 are all forward motion up the line. No relapse into "and still I didn't decide." Exactly the correction that was ordered.
+
+### Voice — on-model, real texture
+- Plain, dry, first-person past all intact. Good warmth and dry jokes: "patient as a dog that knows the walk is coming," the bad fish-cake "nothing living wants it," "I'd come a long cold way to be told up by a man selling cups nobody wanted," Tessie "clocks everything, it's her one indulgence." Keep it.
+- The "I want to put this down carefully, it's the whole of the chapter" narrator crutch (flagged last week) is RETIRED. Good.
+- No staccato pile-ups. Em-dashes and list-triplets present but not alarming.
+
+### New tics — catch these before they harden
+- **MOTIF TRIPLING #1 — "on paper / by hand," "writing him calm."** Ch23 "everything I'd thought I could pack turned out to need carrying"; Ch24 "one more thing carried instead of packed"; Ch25 "on paper the man was calm because I was the one writing him calm ... doing the calm out of my own two hands." Strong idea, but it's the packed-vs-carried motif three chapters running. Rested in Ch27 — keep it rested through Ch28+.
+- **MOTIF DOUBLING #2 — neck-weather, again.** Last audit said bench it. It's the CORE texture of Ch23 (fair — that's the count-reaching-back beat) but it doubles straight into Ch24 ("weather on my neck," "a hand laid flat on the back of my head"). Rested Ch25–27 (good). Keep it rested; do not let it become the go-to way to render "being watched."
+- Minor: "a different article" (Ch23, Ch25) and "a grunt is most of a conversation" (Ch25, Ch27) each used twice. Harmless yet; don't make either a third.
+
+### Pace — moving, but a new template is forming
+- One-beat discipline intact and the beats genuinely vary the texture: Ch22 goes, Ch23 the climb/weather, Ch24 signs-of-people, Ch25 first contact passes, Ch26 sustained exposure, Ch27 first sight of load-work + earn-a-thread-by-hands.
+- **THE RISK:** Ch25, Ch26, Ch27 share one structural unit — *arrive at a lit stop → be the plain no-past stranger → earn one true directional fact from a local → take it and walk on.* Three in a row. Each escalates the pursuit (a bigger place → the Sling / a named where / the parcel-man) and each varies HOW the fact is earned (pass a read → be a customer first → catch a load with your hands), so it's on-plan and not stalling. But the template is now visible, and this is the exact shape the earlier audits caught turning into tread-water (Ch11–13 orbit; Ch16–20 stall). **Ch28 must break the template, not run it a fourth time.** The Sling is a *where with a man in it who says who carries what* — so Ch28 should TRANSACT (reach the parcel-man; get taken on for a scrap, or get turned away and have to earn it), not deliver another one-fact-and-walk-on. A fourth "new lamp, new local, one tip, move on" would be the wheel spinning.
+
+### Continuity / reveal-map — clean, no errors
+- Nothing revealed ahead of the map. No "he built it," no "machine killed the world," no named draw-down. "Careful was a leash" stays a parked suspicion. Correct.
+- Wrist DARK, thick-signal country, Maning UP/deep/unaware and NOT reached/named — all consistent with state.md and canon. No accidental contact.
+- History-younger crack: given a faint touch in Ch23 (salvager's wall-mark "worn more than the story allowed") — good, it was going cold and this kept it warm. NOT touched Ch24–27. It's cooling again and is now overdue a FULLER landing before its confirmation arc; don't let another whole window pass without it.
+
+### Concrete fixes for Ch28+
+1. **Break the waystation template.** Ch28 = the Sling; make it a real transaction with the parcel-man (taken on, or turned away and earning it), not a fourth arrive-tip-leave.
+2. **Keep endings flat** — the streak is fixed; do not relapse into aphorism closers.
+3. **Rest packed-vs-carried and neck-weather** — both tripled/doubled; bench them a while.
+4. **Land the history-younger crack more fully soon** — it's cooling; a faint touch was Ch23, nothing since.
+5. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; don't reach/rescue/name Maning; don't open the far descent.
+
+*(Audit run — no chapter written. Next chapter is Ch28.)*
