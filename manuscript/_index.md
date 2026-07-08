@@ -30,6 +30,7 @@
 | 25 | A Man Passing Through | done |
 | 26 | A Face Nobody Knew | done |
 | 27 | The Next Lamp | done |
-| 28 | (next chapter) | pending |
+| 28 | The Parcel-Man | done |
+| 29 | (next chapter) | pending |
 
 _Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit covering Ch21–27 completed 2026-07-07 (see notes/audit.md). NEXT RUN IS Ch28 (a chapter) — the audit is done._
