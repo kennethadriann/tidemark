@@ -31,6 +31,7 @@
 | 26 | A Face Nobody Knew | done |
 | 27 | The Next Lamp | done |
 | 28 | The Parcel-Man | done |
-| 29 | (next chapter) | pending |
+| 29 | The Light One | done |
+| 30 | (next chapter) | pending |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit covering Ch21–27 completed 2026-07-07 (see notes/audit.md). NEXT RUN IS Ch28 (a chapter) — the audit is done._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27 (every 7). Next audit window is Ch28–34, due after Ch34. NEXT RUN IS Ch30 (a chapter)._
