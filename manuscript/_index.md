@@ -33,6 +33,7 @@
 | 28 | The Parcel-Man | done |
 | 29 | The Light One | done |
 | 30 | Off My Back | done |
-| 31 | (next chapter) | pending |
+| 31 | Which Way the Far Men Come | done |
+| 32 | (next chapter) | pending |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27 (every 7). Next audit window is Ch28–34, due after Ch34. NEXT RUN IS Ch31 (a chapter)._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27 (every 7). Next audit window is Ch28–34, due after Ch34. NEXT RUN IS Ch32 (a chapter)._
