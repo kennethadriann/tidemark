@@ -106,3 +106,44 @@
 5. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; don't reach/rescue/name Maning; don't open the far descent.
 
 *(Audit run — no chapter written. Next chapter is Ch28.)*
+
+---
+
+## 2026-07-15 — Weekly drift check (window: Ch28–34)
+
+**Verdict: continuity clean, voice on-model, endings still fixed. But a retired narrator crutch has crept back for three chapters, and the book has now run three straight solo-terrain chapters — one shy of the tread-water shape the earlier audits kept catching. Fix both at Ch35.**
+
+*(Numbering note: audit run, no chapter taken. Next written chapter is Ch35.)*
+
+### The standing fixes — still holding
+- **ENDING BUTTON — still FIXED.** Ch28–34 all close flat or on plain motion: "waited for the morning to be called," "I climbed," "I stayed where I was," "I stayed on the wall," "the only trick I fully trusted," "the only one on the table," "further than I'd been the night before." No aphorism relapse. Keep it.
+- **STALL — still BROKEN.** No relapse into non-decision. The man moves every chapter. Good.
+- **Benched motifs stayed benched:** neck-weather and packed-vs-carried both rested the whole window. Waystation template broken since Ch28. All as ordered.
+
+### Voice — on-model, real texture
+- Plain, dry, first-person past intact. Good dry warmth: the parcel-man's eye going down a man "the way you'd match a lid to a pot," the load "riding me like it had opinions," "a sentence I'd have laughed at a week before," the body voting to stay "without asking me," standing up "while the reasons were still rubbing the sleep out of their eyes." This is the real stuff. Keep it.
+- No staccato pile-ups. Em-dashes near zero (the state-flagged Ch32/33 creep got trimmed — good).
+
+### New tics — catch these before Ch35
+- **DRIFT #1 — the "I want to put this down plain/straight" narrator move is BACK.** This exact crutch was flagged in the Ch14–20 audit and reported RETIRED in the Ch21–27 audit. It has resurfaced three times this window: Ch29 "I want to tell the next part straight, because the straight part is the part I hadn't seen coming"; Ch33 "I want to put that down plain because it took me a moment to understand it"; Ch34 "But I'll put down plain that I stood at the mouth..." Same self-aware narrator flagging its own quiet moment. Kill it again. Trust the prose to be plain without announcing it's about to be. This is the top fix.
+- **TIC #2 — "the drip that keeps no man company."** Ch33 "the drip, which is a sound that keeps no man company however much of it there is"; Ch34 "the low way's honest drip, the one that keeps no man company." Doubled near-verbatim. Bench it.
+- **TIC #3 — "the plain true small thing."** "true small thing / plain true small thing passes where the clever thing snags" recurs Ch31 and Ch33 ("read enough true small things off the world"). Nice idea, don't make it three. And "low and wide and old" (the deep-country smell) is a deliberate Ch33→Ch34 callback per plan — fine once, but Ch34 leans on it twice; ration.
+- Minor: Ch32 and Ch33 both close on an "the only ___" construction ("the only trick I fully trusted" / "the only one on the table"). Endings are flat, which is right — just don't let "the only X" become the new button shape.
+
+### Pace — moving and slow, but a new orbit is forming
+- One-beat discipline intact and the beats vary: Ch28 transact/taken-on, Ch29 first carry under load, Ch30 delivery/foothold, Ch31 the asking-that-buys/bearing, Ch32 setting out (field goes quiet), Ch33 between-lamps (a light on nothing), Ch34 the ground turns / the fork. Genuinely slow, no rush of the reveal map.
+- **THE RISK:** Ch32, Ch33, Ch34 are three consecutive *lone-man-walks-up-the-long-run, one terrain texture, no other human on-page* chapters. Each varies the texture (going-quiet → the thinning/far lamp → wet-cold ground + fork) and each moves him physically forward, so it's on-plan and not stalling — but the unit is now visible, and this is the exact shape prior audits caught turning into tread-water (Ch11–13 orbit, Ch16–20 stall, Ch25–27 template). The planned Ch35 (the way reverses and goes DOWN — another solo terrain texture) would make it FOUR straight chapters of the same solitary man noticing the rock change. That's the ceiling. **Run Ch35 as planned if you must, but it is the LAST solo-terrain chapter that earns its keep** — after it, the solitude has to break: a mute sign the far men's world is real (a cached/worked thing, a mark), a wading beat that escalates the black-swim plant into event, or first contact up here. Do not run "lone man walks and reads the wall" a fifth time. The pursuit needs a person, an object, or an obstacle back on the page soon or the wheel starts spinning in the dark.
+
+### Continuity / reveal-map — clean, no errors
+- Nothing revealed ahead of the map. No "he built it," no "machine killed the world," no named draw-down. "Careful was a leash" stays a parked suspicion. Correct.
+- **History-younger crack handled well.** Got its fuller landing Ch29 (dry-ground father in living memory, filed soft), then correctly RESTED Ch30–34. Ch34's "rock the water made and is still making" is kept as deep-country geology, deliberately NOT arithmetic'd, NOT tipped into the drowning-timeline thread — exactly as state.md asked. Keep them separate; but note the crack is cooling again and its confirmation arc is now a window or two overdue — don't let it go fully cold.
+- Wrist DARK, Maning UP/deep/unaware and NOT reached or named, no accidental contact up the long run, the bearing (out/up/long run/yards/days) consistent across Ch31–34. Sol/Pia/Tessie/Danny offstage, consistent. No contradictions vs state.md or canon.
+
+### Concrete fixes for Ch35+
+1. **Kill the "I want to put this down plain/straight" narrator move again.** It was retired once; it's back three times. Top priority.
+2. **Ch35 is the last free solo-terrain chapter.** Break the solitude right after — a sign, an object, a wade, or contact. Don't run the lone-walk-and-read unit a fifth time.
+3. **Bench "the drip that keeps no man company"; ration "the plain true small thing" and "low and wide and old."**
+4. **Keep endings flat — but don't let "the only X" become the new closer shape.**
+5. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; keep Ch34's deep-geology separate from the young-world crack; don't reach/name Maning; keep the far descent as terrain, not the down-not-out reveal.
+
+*(Audit run — no chapter written. Next chapter is Ch35.)*
