@@ -38,6 +38,7 @@
 | 33 | Between Lamps | done |
 | 34 | The First Fork | done |
 | — | Ch28–34 weekly audit | done (2026-07-15) |
-| 35 | (next chapter) | pending (next run) |
+| 35 | The Way Down | done |
+| 36 | (next chapter) | pending (next run) |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34 (every 7). The Ch28–34 audit is DONE (2026-07-15; see notes/audit.md). NEXT RUN WRITES Ch35. Next audit window is Ch35–41._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34 (every 7). The Ch28–34 audit is DONE (2026-07-15; see notes/audit.md). NEXT RUN WRITES Ch36. Next audit window is Ch35–41 (runs after Ch41)._
