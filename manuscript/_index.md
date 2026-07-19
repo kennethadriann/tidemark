@@ -41,6 +41,7 @@
 | 35 | The Way Down | done |
 | 36 | Somebody's Line | done |
 | 37 | The First Face Down There | done |
-| 38 | (next chapter) | pending (next run) |
+| 38 | What the Quiet Bought | done |
+| 39 | (next chapter) | pending (next run) |
 
 _Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34 (every 7). The Ch28–34 audit is DONE (2026-07-15; see notes/audit.md). NEXT RUN WRITES Ch38. Next audit window is Ch35–41 (runs after Ch41)._
