@@ -44,6 +44,8 @@
 | 38 | What the Quiet Bought | done |
 | 39 | More Than One Fire | done |
 | 40 | The Edge of the Yards | done |
-| 41 | (next chapter) | pending (next run) |
+| 41 | The Talk of the Man | done |
+| — | Ch35–41 weekly audit | pending (next run) |
+| 42 | (next chapter) | pending (after audit) |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34 (every 7). The Ch28–34 audit is DONE (2026-07-15; see notes/audit.md). NEXT RUN WRITES Ch41, THEN the Ch35–41 weekly audit runs as a separate run. Next audit window is Ch35–41 (runs after Ch41)._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34 (every 7). The Ch28–34 audit is DONE (2026-07-15; see notes/audit.md). Ch41 is now DONE. THE NEXT RUN IS THE Ch35–41 WEEKLY AUDIT (a separate run, no chapter number, do NOT write a chapter) — run the /audit command. The run AFTER that writes Ch42._
