@@ -147,3 +147,45 @@
 5. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; keep Ch34's deep-geology separate from the young-world crack; don't reach/name Maning; keep the far descent as terrain, not the down-not-out reveal.
 
 *(Audit run — no chapter written. Next chapter is Ch35.)*
+
+---
+
+## 2026-07-23 — Weekly drift check (window: Ch35–41)
+
+**Verdict: healthy — the best-behaved window in a while. Last audit's top fix LANDED (the "I want to put this down plain" crutch is dead again), the solo-terrain orbit broke exactly on schedule, endings still fixed, continuity clean. Three small things to watch, none alarming. Ch42 must vary the labor.**
+
+*(Numbering note: audit run, no chapter taken. Next written chapter is Ch42.)*
+
+### The standing fixes — all held
+- **"I WANT TO PUT THIS DOWN PLAIN/STRAIGHT" CRUTCH — KILLED AGAIN.** This was last audit's #1 fix (it had crept back three times in Ch28–34). Not once in Ch35–41. Good. It stays retired.
+- **SOLO-TERRAIN ORBIT — BROKEN ON SCHEDULE.** Last audit ordered Ch35 as the LAST free solo-terrain chapter, solitude to break right after. Exactly what happened: Ch35 solo (the way down), Ch36 breaks it with EVIDENCE (the rigged crossing-line), Ch37 first far-man CONTACT, and Ch38–41 all have a person or a place on the page. The wheel is not spinning. Clean.
+- **ENDING BUTTON — still fixed, mostly.** Endings run flat/on-motion: "before I gave any more of the down to my legs," "ache their way back to being hands," "started down toward the light," "waited on a man who hadn't come in yet." No aphorism relapse. Two soft leans to watch (see below), but no streak.
+- **Benched motifs stayed benched:** "the drip that keeps no man company" — gone this window. Good.
+
+### Voice — on-model, real texture
+- Plain, dry, first-person past intact. Good dry warmth: the wet "living in there like it paid rent," legs that "complained like men roused to do a job they'd been told all week wasn't theirs," the load "as much goodbye as the deep country hands out," being no-trouble as "a strange labor for a man who'd made a career of it by accident." Keep all of it.
+- Em-dashes near zero across the window. No staccato pile-ups. Triplets rare (Ch35 "not proud and not fast and glad of every place" is a mild three-beat rhythm, harmless).
+
+### New/creeping tics — catch before Ch42
+- **FLAG #1 — "HAND" FIGURES CLUSTERING.** State benched the physical "put my hand flat/on it to know it" gesture. It came back Ch36 ("I put my hand on the near hitch to know it, the way I'd put my hand flat on the wet wall") — a deliberate Ch34 callback, fine once. But Ch41 then stacks two more hand-idioms ("a thing he could put a hand to," "put a straight hand on"). That's the know-it gesture + two attest/approach idioms inside the window. The cluster state warned about is forming. Ration hard: one hand-figure per chapter, max.
+- **FLAG #2 — THE ASK-THAT-BUYS MODEL IS NOW 3×.** Ch31, Ch38, and Ch41 all run the same unit: spend one cheap true line as a credential → get a direction/bearing back. Each varies the setting (top-stop wall / lone far-man's fire / crowded yards fixture-man), so it's not stale yet — but it is the visible template, and this is the exact shape prior audits caught turning into tread-water. **Ch42 must NOT run a fourth ask.** Per the seed: vary the labor to STAYING/earning-a-place-to-wait, not asking.
+- **FLAG #3 — two soft-meaning closers leaning back in.** Ch38 ("both of them, for the first time in a long dark while, pointed the same direction") and Ch40 ("for once it was the right thing to be good at") reach a half-step toward the old profound-button shape. Endings are still flat overall and this is nowhere near the Ch14–20 streak — but don't let the flat ending quietly mutate into a quiet closing line of *meaning*. Ch41's "waited on a man who hadn't come in yet" is the right model: plain, no reach.
+- Minor: "patient as X" simile recurred (Ch38 "patient as everything down here was patient") — an old cross-book construction (Ch7/9/23). Twitch, not a wound; just don't reach for it again next window.
+
+### Pace — genuinely slow, one beat each, no rush of the map
+- Ch35 the way reverses/goes down, Ch36 evidence of a person, Ch37 first face passes, Ch38 the ask buys direction, Ch39 approach/first sight, Ch40 enters/first footing, Ch41 first talk buys a bearing. Seven distinct micro-screws, each one texture, all flat. No reveal-map rush. This is the disciplined slow burn working.
+
+### Continuity / reveal-map — clean, no errors
+- Nothing revealed ahead of the map. No "he built it," no "machine killed the world," no named draw-down. "Careful was a leash" stays a parked suspicion. Correct.
+- **Young-world crack — 4th landing (Ch41), escalating not repeating.** The chain reads right: Ch13 old woman's *mother* (secondhand story) → Ch29 walker's *father* (story told under load) → Ch41 the yards-man's *own feet*, fires moved up twice in his own time, water STILL climbing (told as where-not-to-step, not a tale). Each is more immediate and harder-evidenced than the last. It has now had four landings — correctly PAID OFF and due a rest; do NOT run a fifth "it was dry" beat soon.
+- **Deep-country geology kept separate.** Ch35–36's water-made rock / leaked-up cold stays atmosphere, not arithmetic'd into the drowning timeline. Exactly as state asked. Keep separate.
+- Maning still OUT/unaware/NOT reached, name UNSPENT (Ch37 and Ch41 both had the chance and didn't spend it). The far man's dark wrist (Ch37) is consistent with Ch28's "dark wrist is nothing to a far back." The bearing (down/out, low wet side, the yards) consistent Ch38→41. Sol/Pia/Tessie/Danny offstage, consistent. No contradictions vs state.md or canon.
+
+### Concrete fixes for Ch42+
+1. **Vary the labor — STAY, don't ask.** Three asks-that-buy is the ceiling. Ch42 = earning a place to wait (spend a metal bit, eat, do a small real thing that buys standing), NOT a fourth credential-for-a-direction exchange.
+2. **Ration the "hand" figures** — one per chapter, and rest the physical know-it gesture; the cluster is forming.
+3. **Keep endings flat and plain** — no closing line of meaning; watch the Ch38/Ch40 soft-button lean.
+4. **Rest the young-world crack** — four landings is enough; don't run a fifth "it was dry" beat for a good while.
+5. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; keep deep-geology separate; don't reach/name Maning; keep the descent as terrain, not the down-not-out reveal.
+
+*(Audit run — no chapter written. Next chapter is Ch42.)*
