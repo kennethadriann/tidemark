@@ -46,6 +46,7 @@
 | 40 | The Edge of the Yards | done |
 | 41 | The Talk of the Man | done |
 | — | Ch35–41 weekly audit | done (2026-07-23) |
-| 42 | (next chapter) | pending (next run) |
+| 42 | The Fire Nobody Owned | done |
+| 43 | (next chapter) | pending (next run) |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34 (every 7). The Ch28–34 audit is DONE (2026-07-15) and the Ch35–41 audit is DONE (2026-07-23; both in notes/audit.md). Ch41 is DONE. THE NEXT RUN WRITES Ch42 (a normal chapter run)._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34 (every 7). The Ch28–34 audit is DONE (2026-07-15) and the Ch35–41 audit is DONE (2026-07-23; both in notes/audit.md). Ch42 is DONE. THE NEXT RUN WRITES Ch43 (a normal chapter run); the next audit window is Ch42–48._
