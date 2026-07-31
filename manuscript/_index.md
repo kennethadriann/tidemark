@@ -53,6 +53,7 @@
 | 46 | What Came Up the Wet Way | done |
 | 47 | Across the Light | done |
 | 48 | What in Hell | done |
+| — | Ch42–48 weekly audit | done (2026-07-31) |
 | 49 | (next chapter) | pending (next run) |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34 (every 7). The Ch28–34 audit is DONE (2026-07-15) and the Ch35–41 audit is DONE (2026-07-23; both in notes/audit.md). Ch48 is DONE. THE NEXT RUN IS THE Ch42–48 WEEKLY AUDIT (an audit run — do NOT write a chapter; run /audit). Ch49 is written on the run AFTER the audit._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48 (every 7). The Ch42–48 audit is DONE (2026-07-31; all in notes/audit.md). Ch48 is DONE. THE NEXT RUN WRITES Ch49 (a normal chapter run — the daylight "we'll talk in the light" talk, opening toward the OWING-DELIVERY; see notes/state.md for the Ch49 seed). The next weekly audit is Ch49–55._

@@ -189,3 +189,52 @@
 5. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; keep deep-geology separate; don't reach/name Maning; keep the descent as terrain, not the down-not-out reveal.
 
 *(Audit run — no chapter written. Next chapter is Ch42.)*
+
+---
+
+## 2026-07-31 — Weekly drift check (window: Ch42–48)
+
+**Verdict: healthy. The reunion landed dry and both voices held; endings still flat, continuity clean, no reveal-map rush. Two voice fixes for Ch49 — a "the way X" construction that hardened into the window's signature move, and two benched motifs that crept back once. Plus the structural one: the yards has now held NINE straight chapters, and the owing-delivery is the last thing that can happen here.**
+
+*(Numbering note: audit run, no chapter taken. Next written chapter is Ch49.)*
+
+### The standing fixes — all held
+- **"I want to put this down plain/straight" crutch — still dead.** Not once in Ch42–48. Stays retired.
+- **ENDING BUTTON — still fixed.** All seven close flat or on plain action: "I finished the food and I fed the fire and I sat" / "and then I slept" / "waited on it the same as they did" / "low and cold, and kept coming" / "there'd still be nothing there" / "standing up behind his eyes" / "I ate his cold rice. It was fine." No aphorism relapse. Streak Ch21–48 intact.
+- **ASK-THAT-BUYS — correctly NOT run.** Last audit's #1 fix was "vary the labor — STAY, don't ask." Ch42 did exactly that (feed the fire, buy the leaf-meal, become furniture). No fourth credential-for-a-direction exchange anywhere in the window. Good.
+- **Young-world crack — rested all seven** (paid off Ch41). No fifth "it was dry." Deep-country geology also rested. Correct.
+- **Em-dashes — zero in prose across the window** (title lines only). Keep out.
+
+### Voice — on-model, and the hard test passed
+- The dialogue chapters (Ch47–48) are the first real two-man talk since the kitchen and the biggest sentiment risk of the run. Both voices stayed distinct and dry: Maning laconic ("You're wet," "You came the wet way," "the laziest smart man I ever hauled junk for," "You'll owe me. You already owe me. What's one more"), Adz plain/evasive ("Looking for work," "It's complicated," "Keep your complicated"). Warmth by understatement, a couple of dry jokes, no swelling. Held. Keep exactly this discipline for the death-delivery — same trap, sharper.
+- Good texture elsewhere: "files you as furniture, which is the good kind of being seen," "a bit of metal over and over... a man watches another man's thumb because there's nothing else moving worth the watching," "his knees had opinions," "fond of a leak you've patched a dozen times." Real stuff.
+
+### New/creeping tics — catch before Ch49
+- **FLAG #1 — "the way X" is now a real tic.** It's the window's most frequent move, several a chapter: Ch42 "the way a man walks who's done it a hundred times," "the way a pot is of a kitchen"; Ch45 "the way you look at a sound"; Ch46 "the way you're meant to down here"; Ch47 "the way you look at a word... spelled wrong," "the way he'd clock anybody"; Ch48 "the way you're fond of a leak," "the way he took a load," "patient... the way water was patient." This is the "the way a X does Y" tic state has been watching, and it hardened this window. Ration hard — one per chapter, max.
+- **FLAG #2 — two benched motifs crept back once each.** "Patient as X" simile (last audit: don't reach for it again) returned Ch48 "Maning was patient about things the way water was patient about things." Pot/furniture fixture-metaphor (benched) returned Ch42 "the way a pot is of a kitchen, and nobody asks a pot its business" + "files you as furniture." Both single instances, rested Ch43–47, so not a wound — but they're benched for a reason. Keep them down.
+- **FLAG #3 — "a world ago" still surfacing mid-line.** Benched as a closer (good, never used as one), but Ch42 "the watering lamp a world ago" and Ch47 "a hundred miles and a whole world out of its place" show it still reaching. Ration.
+
+### Pace — one beat each, slow, no rush of the map
+- Ch42 stay, Ch43 watch, Ch44 edge nearer, Ch45 inbound, Ch46 landing/first sight, Ch47 contact/first words, Ch48 reunion proper. Seven distinct micro-screws.
+- **Soft note:** Ch43 and Ch44 are the thinnest pair — both are "Adz reads the drop-business from his poor fire and clocks the held backs," Ch44 only incrementally escalating (the shelf gets cleared). Three watching chapters (Ch42–44) before the Ch45 payoff sits right at the tread-water line the earlier audits kept catching. It resolved cleanly because Ch45–48 delivered real external events, so it's fine in hindsight — but that is the ceiling for static-watch. No more pure-watching chapters.
+
+### The structural one — the yards, and the two clocks
+- **NINE straight chapters in the yards (Ch40–48).** Ch45–48 earned it with real events (inbound → landing → contact → reunion), but the well is nearly dry. The owing-delivery ("we'll talk in the light") is the LAST thing that can happen here. After it lands, the arc MUST begin moving OUT (getting Maning to come down). Do not run a tenth static yards chapter.
+- **The owing-delivery is the single most stall-prone beat left in the book.** Ch48's deferral reads NATURAL, not artificially stalled — Adz won't drop a death-date on the night he finds his friend; it's humane and in-character, and his evasion is a real seam, not a contrivance. But the book's oldest enemy is the multi-chapter stall (Ch16–20). Ch49 opens the daylight talk; the delivery can land across Ch49–50 (pressing → telling) but NOT beyond. Do not let "Adz not-quite-telling" become a three-chapter held breath.
+- **Honest note on the OTHER clock (not a Ch49 fix — an arc flag).** Adz's own eleven-days sentence has gone fully dormant: off-grid, unnamed, no felt tick for a long stretch. State says this is intent (ordinary this deep) and it is NOT a continuity error. But the reader's sense of Adz's own jeopardy has evaporated — Maning's dated-out slate is now carrying all the tension the book has. Fine for now, but the first-act engine (his own written death) needs reactivating before the descent, or it's just gone. Flag for the arc, not for the next chapter.
+
+### Continuity / reveal-map — clean, no errors
+- Nothing revealed ahead of the map. No "he built it," no "machine killed the world," no named draw-down. "Careful was a leash" stays a parked suspicion. Correct.
+- Pia news (Ch48 "Safe. Off the count. She sorts caps still. Tessie's got her") is consistent with state.md, and Ch46 seeds it cleanly (Maning's pat "once... to the top of Pia's head").
+- Maning still UNAWARE of his sentence, owing UNDELIVERED, WHY-Adz-came UNSAID — all held exactly. Maning thinner/weeks-out, dark wrist ordinary for a far back, Adz's wrist DARK — consistent. Sol/Lim/Tessie/Danny offstage; Lim/Sol/kitchen not yet asked-after by Maning by name (reserved) — consistent with state.
+- Self-suspicion correctly rested Ch45–48 (the reads of Maning were warm friend-recognition, not the cold machine-read). Consistent.
+
+### Concrete fixes for Ch49+
+1. **Ration "the way X" hard** — one per chapter. It hardened into the window's signature move.
+2. **Keep "patient as X" and the pot/furniture metaphor benched** — both crept back once.
+3. **Land the owing-delivery across Ch49–50 at most.** Natural deferral yes; three-chapter stall no.
+4. **After the delivery, move OUT of the yards** — nine chapters is the ceiling; don't let it go stale.
+5. **Keep the death-delivery as dry as the reunion** — plain, sideways, the news landing the way real bad news lands. No swelling, no breakdown; Maning laconic.
+6. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; young-world crack stays rested; don't blurt the owing as an afterthought.
+
+*(Audit run — no chapter written. Next chapter is Ch49.)*
