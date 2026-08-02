@@ -55,6 +55,7 @@
 | 48 | What in Hell | done |
 | — | Ch42–48 weekly audit | done (2026-07-31) |
 | 49 | In the Light | done |
-| 50 | (next chapter) | pending (next run) |
+| 50 | Dated Out | done |
+| 51 | (next chapter) | pending (next run) |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48 (every 7). The Ch42–48 audit is DONE (2026-07-31; all in notes/audit.md). Ch48 is DONE. THE NEXT RUN WRITES Ch49 (a normal chapter run — the daylight "we'll talk in the light" talk, opening toward the OWING-DELIVERY; see notes/state.md for the Ch49 seed). The next weekly audit is Ch49–55._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48 (every 7). The Ch42–48 audit is DONE (2026-07-31; all in notes/audit.md). Ch48 is DONE. Ch50 (the owing landing — the death-date delivered, Maning laconic) is DONE. THE NEXT RUN WRITES Ch51 (a normal chapter run — the "so what now," beginning the move OUT of the yards / getting Maning to come down; see notes/state.md for the Ch51 seed). The next weekly audit is Ch49–55 (after Ch55)._
