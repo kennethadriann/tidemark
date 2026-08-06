@@ -59,6 +59,7 @@
 | 51 | More Than Telling | done |
 | 52 | Two Dark Wrists | done |
 | 53 | The Number I Put Down | done |
-| 54 | (next chapter) | pending (next run) |
+| 54 | The Only Place It's Kept | done |
+| 55 | (next chapter) | pending (next run) |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48 (every 7). The Ch42–48 audit is DONE (2026-07-31; all in notes/audit.md). Ch53 (Adz reckons his own clock and finds it unrecoverable by his usual means — number still unnumbered, the gate shown genuinely hard) is DONE. THE NEXT RUN WRITES Ch54 (a normal chapter run — the cost of the gate: to know his date Adz would have to surface into the count; see notes/state.md for the Ch54 seed). The next weekly audit is Ch49–55 (after Ch55)._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48 (every 7). The Ch42–48 audit is DONE (2026-07-31; all in notes/audit.md). Ch54 (the cost of the gate: the number is only whole in Adz's file up in the count, so learning his date and surfacing into view are the same move — "the door's the trap") is DONE. THE NEXT RUN WRITES Ch55 (a normal chapter run — what the trap does to the gate; see notes/state.md for the Ch55 seed). The next weekly audit is Ch49–55, i.e. the run AFTER Ch55._
