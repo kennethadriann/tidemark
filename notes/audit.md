@@ -238,3 +238,50 @@
 6. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; young-world crack stays rested; don't blurt the owing as an afterthought.
 
 *(Audit run — no chapter written. Next chapter is Ch49.)*
+
+---
+
+## 2026-08-09 — Weekly drift check (window: Ch49–55)
+
+**Verdict: healthy and disciplined. The owing-delivery landed dry and did NOT stall, both voices held, endings still flat, em-dashes zero, continuity clean, and the dormant second clock (Adz's own number) got REACTIVATED — the standing arc flag is paid. Two real things to fix at Ch56: the retired narrator crutch is creeping back in a new dress, and the "number" question has now been turned over for three straight fire-bound chapters (two of them solo interior). Plus the honest structural note: the yards has held sixteen chapters.**
+
+*(Numbering note: audit run, no chapter taken. Next written chapter is Ch56.)*
+
+### The standing fixes — all held
+- **ENDING BUTTON — still fixed.** All seven close flat or on plain action: "Then I told him." / "we sat and watched it catch." / "neither of us reached for anything more." / "as far as either of us took it that night." / "looked at the dark until it was a little less dark." / "I didn't get up to go and get it." / "let them be the size they were." No aphorism relapse. Streak Ch21–55 intact.
+- **EM-DASHES — zero in prose across the window** (title lines only). Held.
+- **"the way X" — rationed.** Last audit flagged it as the window's signature move. Ch49–55 keep it to roughly one strong instance per chapter (Ch50 "the way you don't think about the rock," Ch55 "the way you turn a stone you already know both sides of"). Correction landed. Keep it there.
+- **"patient as X" / pot-furniture metaphor — stayed benched.** Good.
+- **Young-world crack + deep-geology — rested all seven.** No fifth "it was dry." Correct.
+- **The death-delivery stayed dry.** Ch50 is the biggest sentiment risk since the reunion and it held exactly the ordered discipline: Maning laconic ("There's other Manings," "everybody's dated out, it's called being born," "Huh," "That's a hell of a thing to bring a man in the morning"), the news landing sideways and plain, no swelling, no breakdown. Best-executed high-risk beat in a while.
+
+### The two prior structural fixes — both PAID
+- **OWING-DELIVERY did NOT stall.** Last audit: land it across Ch49–50 at most, no three-chapter held breath. Exactly done — Ch49 presses, Ch50 tells, done. Clean.
+- **ADZ'S OWN CLOCK — REACTIVATED.** Last audit's arc flag was that his own sentence had gone fully dormant and the reader's sense of his jeopardy had evaporated. Ch52 brings it back hard (the two dark wrists), Ch53–55 make it a live thread. This was the right time and the right lever (Maning reads it OFF Adz rather than Adz announcing it). The engine is running again. Good.
+
+### New/creeping tics — catch before Ch56
+- **FLAG #1 — the retired narrator crutch is back in a new coat.** The "I want to put this down plain/straight" move was killed twice (Ch21–27, then again Ch35–41). It's resurfacing as "I want to be honest about that" (Ch53) and "I want that plain, because a man in a story would have..." (Ch55). Same self-aware narrator flagging his own quiet moment before delivering it. Ch55's version even names the machinery ("a man in a story would have stood up about here"). Kill it again before it hardens a third time — trust the prose to be plain/honest without announcing it.
+- **FLAG #2 — "Huh" + "the small sound a man makes setting a weight down."** Maning's signature beat, used with near-identical gloss three times: Ch50 "just the one small sound a man makes setting a heavy thing down," Ch52 "a man setting a second weight down beside the first," Ch54 "The same small sound." It's characterful, but three near-verbatim is a refrain now. Rest it — if Maning grunts again, don't re-gloss it.
+- **FLAG #3 — the "no floor / second floor under the first" figure doubled.** Ch53 "there was no floor," "the second floor to go out from under me that night"; Ch55 "a second floor under the first one and you don't find it till you've stood on it." Nice, but it's now the go-to render for "a fair-looking thing with a hidden cost." Bench it.
+- Minor: the empty-cup-in-hands stage business (Ch50 held/turned empty cup ×3, Ch51 "picked up the empty cup again") is a fine nervous gesture but leaned on twice in two chapters; ration.
+
+### Pace — one beat each, but the number-orbit is at the ceiling
+- Seven distinct micro-screws: Ch49 owing opens, Ch50 owing lands, Ch51 the maybe (come down), Ch52 Maning turns it back (you have a number too), Ch53 Adz can't get it (three routes dead), Ch54 getting it = surfacing (the cost), Ch55 it was never the number (a test of the man). Genuinely slow, no reveal-map rush.
+- **THE RISK:** Ch53, Ch54, Ch55 are three consecutive chapters turning over Adz's number, and Ch53 + Ch55 are both solo interior monologue at the fire. This is the exact tread-water shape the earlier audits kept catching (Ch11–13 orbit, Ch16–20 stall, Ch53–55 now). It's on the right side of the line — each chapter genuinely advances the read (can't-get-it → the-cost-is-surfacing → it-was-never-the-digit) and Ch55 lands a real turn. But the well is dry. **Ch56 must move relationally and must NOT re-think the number a fourth time.** The seed already forbids re-running the "digit isn't the point" realization as new — good; hold that line hard. Ch56 = Maning back, the read confirmed from OUTSIDE, no fresh interior re-derivation.
+- **Honest structural note: the yards has now held Ch40–55 = SIXTEEN chapters.** The Ch42–48 audit set "nine is the ceiling, move OUT after the delivery." The arc earned the extension by turning into a real bind (Adz can't fetch his number without surfacing, which gates Maning's decision), so it's not idle — but the fire is nearly out as a setting. The exit is now explicitly blocked on ONE thing: Adz deciding whether to walk up and be seen. Ch56 can hold the yards one more beat (Maning back), but the book cannot sit at this fire much past it. The next real move — Adz toward or away from surfacing, then homeward — needs to arrive soon or the yards goes stale.
+
+### Continuity / reveal-map — clean, no errors
+- Nothing revealed ahead of the map. No "he built it," no "machine killed the world," no named draw-down. "Careful was a leash" stays a parked suspicion.
+- **Draw-down stays FELT-not-named,** correctly turned inward: Ch53 renders Adz's own number as "a column that only ever goes down... no tap at the top of it" — the draw-down logic applied to himself, unnamed. On-map.
+- **Self-suspicion kept feather-light,** as state asks: Ch53 "back when tidy was the whole of what I was for," Ch55 "the only way I've ever passed anything" (clever). Touched, not confirmed. Consistent.
+- **Adz's own number kept UNNUMBERED,** as ordered — never re-names the old eleven; rendered as gone-soft/put-down/dark, consistent with off-grid. Ch53's "a thing put in the wrong tense, but that's a different story" is a clean Ch1/2 callback that does NOT re-state the figure. Good.
+- Wrist DARK since the black water (Ch53) consistent with Ch5. Maning thinner/weeks-out, dark wrist ordinary for a far back, both wrists dark — consistent. Pia/Sol/Lim/Tessie/Danny offstage, consistent. No contradictions vs state.md or canon.
+
+### Concrete fixes for Ch56+
+1. **Kill the narrator crutch again** — "I want to be honest / I want that plain / a man in a story would have..." is the twice-retired move in a new dress. Third time; stamp it out.
+2. **Rest "Huh"/setting-a-weight-down and bench the "no floor/second floor" figure** — both hardened this window.
+3. **Do NOT re-think the number a fourth time.** Ch55 landed "it was never the digit, it's a test of the man." Ch56 confirms it from the OUTSIDE (Maning) or moves the relation; it does not re-derive it interiorly.
+4. **One more yards beat, then move.** Sixteen chapters at this fire is the true ceiling; the exit is blocked on Adz's surfacing decision — don't let another window pass without the book leaving the fire.
+5. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; young-world crack + deep-geology stay rested; keep Adz's number UNNUMBERED; keep endings flat.
+
+*(Audit run — no chapter written. Next chapter is Ch56.)*

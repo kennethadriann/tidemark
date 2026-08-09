@@ -61,7 +61,7 @@
 | 53 | The Number I Put Down | done |
 | 54 | The One Shelf | done |
 | 55 | Not the Number | done |
-| — | Ch49–55 weekly audit | pending (next run) |
-| 56 | (next chapter) | pending (run after audit) |
+| — | Ch49–55 weekly audit | done (2026-08-09) |
+| 56 | (next chapter) | pending (next run) |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48 (every 7). The Ch42–48 audit is DONE (2026-07-31; all in notes/audit.md). Ch55 (what the gate is really asking: the digit was never Maning's need — the errand is a test of whether the careful man will walk up into the light and be seen; Adz reads it, dislikes it, does not move) is DONE. THE NEXT RUN is the Ch49–55 WEEKLY AUDIT (no chapter number; write the drift check to notes/audit.md, do NOT write a chapter). The run AFTER the audit writes Ch56 — see notes/state.md for the Ch56 seed and NEXT BEAT._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48, Ch49–55 (every 7). The Ch49–55 audit is DONE (2026-08-09; all in notes/audit.md). Ch55 (what the gate is really asking: the digit was never Maning's need — the errand is a test of whether the careful man will walk up into the light and be seen; Adz reads it, dislikes it, does not move) is DONE. THE NEXT RUN writes Ch56 — see notes/state.md for the Ch56 seed and NEXT BEAT._
