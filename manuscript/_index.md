@@ -62,6 +62,7 @@
 | 54 | The One Shelf | done |
 | 55 | Not the Number | done |
 | — | Ch49–55 weekly audit | done (2026-08-09) |
-| 56 | (next chapter) | pending (next run) |
+| 56 | What He Came Back To | done |
+| 57 | (next chapter) | pending (next run) |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48, Ch49–55 (every 7). The Ch49–55 audit is DONE (2026-08-09; all in notes/audit.md). Ch55 (what the gate is really asking: the digit was never Maning's need — the errand is a test of whether the careful man will walk up into the light and be seen; Adz reads it, dislikes it, does not move) is DONE. THE NEXT RUN writes Ch56 — see notes/state.md for the Ch56 seed and NEXT BEAT._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48, Ch49–55 (every 7). The Ch49–55 audit is DONE (2026-08-09; all in notes/audit.md). Ch56 (the read confirmed from outside: Maning returns off the drop and never asks about the number — the not-asking proves he's watching the man, not waiting on a digit; Adz still does not move) is DONE. THE NEXT RUN writes Ch57 — see notes/state.md for the Ch57 seed and NEXT BEAT (the first move up / leaving the fire). Next audit window is Ch56–62 (after Ch62)._
