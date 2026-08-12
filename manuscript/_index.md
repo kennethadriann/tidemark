@@ -64,6 +64,7 @@
 | — | Ch49–55 weekly audit | done (2026-08-09) |
 | 56 | What He Came Back To | done |
 | 57 | The Stair | done |
-| 58 | (next chapter) | pending (next run) |
+| 58 | The Way Back Up | done |
+| 59 | (next chapter) | pending (next run) |
 
-_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48, Ch49–55 (every 7). The Ch49–55 audit is DONE (2026-08-09; all in notes/audit.md). Ch57 (the first move up / leaving the fire: Adz finally gets up from Maning's fire, feet ahead of head, and starts up the wet way into the count — the yards falling behind; does not reach the count, get the number, resolve Maning's decision, or get anyone home) is DONE. THE NEXT RUN writes Ch58 — see notes/state.md for the Ch58 seed and NEXT BEAT (the climb back into thicker signal / exposure returning). Next audit window is Ch56–62 (after Ch62)._
+_Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48, Ch49–55 (every 7). The Ch49–55 audit is DONE (2026-08-09; all in notes/audit.md). Ch58 (the climb / return trip begins: Adz climbs the first leg of the wet way up, passes the Ch38/39 split re-met from below, and the exposure starts creeping back in a fresh register — a dark wrist beginning to mean something again; does not reach a lamp, a peopled stop, thick-signal country, the count, or his file, and does not get/name the number) is DONE. THE NEXT RUN writes Ch59 — see notes/state.md for the Ch59 seed and NEXT BEAT (the next leg of the climb, a down-trip landmark re-met backward, exposure a hair thicker). Next audit window is Ch56–62 (after Ch62)._
