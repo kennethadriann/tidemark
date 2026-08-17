@@ -285,3 +285,56 @@
 5. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; young-world crack + deep-geology stay rested; keep Adz's number UNNUMBERED; keep endings flat.
 
 *(Audit run — no chapter written. Next chapter is Ch56.)*
+
+---
+
+## 2026-08-17 — Weekly drift check (window: Ch56–62)
+
+**Verdict: continuity clean, voice on-model, all standing fixes held — but this is the tread-water window the last three audits kept warning about, arrived. Ch57–62 is SIX straight climb chapters on one structural unit, and it's the most at-risk-of-monotony run since the Ch16–20 stall. It is NOT a stall (he moves forward every chapter) and each exposure tell is genuinely fresh — but the metronome is now audible. Ch63 must break the shape, not run it a seventh time. Plus two verbal refrains hardening off the reverse-geography engine.**
+
+*(Numbering note: audit run, no chapter taken. Next written chapter is Ch63.)*
+
+### The standing fixes — all held
+- **NARRATOR CRUTCH — killed a third time.** "I want to be honest / I want that plain / a man in a story would have..." (Ch53/55 slips) does NOT appear once in Ch56–62. Ch57's "There was no moment in it I could point at" is honest interiority, not the self-flagging move. Stays dead. Keep it dead.
+- **ENDING BUTTON — still fixed.** All seven close flat/on-motion: "watched it take" / "I climbed" / "the country that would know me" / "the part that counted" / "kept on up into it" / "toward the next one, wherever it was keeping" / "went up toward it." No aphorism reach. Streak Ch21–62 intact. (But see the samey-ending flag below — flat is holding, *varied* is slipping.)
+- **EM-DASHES — zero in prose** across the window (title dashes only). Held.
+- **"Huh"/setting-a-weight-down** — rested (Maning's only on-page in Ch56 and doesn't grunt-and-gloss). **"no floor/second floor"** — benched, gone. **"patient as X" / pot-furniture** — stayed down. Good.
+- **Young-world crack + deep-geology — correctly handled.** Ch58–60 touch the deep cold/smell/water-made rock only as it LEAVES, plain atmosphere (Ch60's "the water had never made the rock, only wetted it" is the seam, kept as geology, NOT arithmetic'd into the drowning timeline). Ch61–62 don't touch it at all. As of Ch60 the deep-geology is behind him for good and the window kept it gone. On-map.
+- **Number kept UNNUMBERED** — Ch59 "no first day to start the sum from," never re-names the old eleven. Held.
+
+### Voice — on-model, real texture
+- Plain, dry, first-person past intact. Good dry warmth: "a beggar at the bottom of the world doesn't send the plate back" (Ch56), "before you talk your feet out from under you" (Ch57), the water "keeping none of the heat and thanking me for none of it" (Ch58), the deep "in no more hurry to be rid of me than it had been to have me" (Ch60), he'd read "that a thirsty man went by, which was the truth and no crime in it" (Ch62). Keep all of it.
+- **"the way X"** — rationed to ~one per chapter (Ch56 "the way Maning hands you a thing," Ch60 "the way a thing you've breathed so long comes back to you"). Correction from the Ch49–55 audit is holding. Keep it there.
+- No staccato pile-ups. Triplets rare.
+
+### New/creeping tics — catch before Ch63
+- **FLAG #1 — "said the other thing" / "it said the other thing" is now a verbal refrain.** The reverse-geography engine ("coming down this meant X; going up it means Y") is the window's structural spine, and its verbal tag has hardened: Ch59 "Going up it said the other thing," Ch61 "Going up it said the other thing, and I liked the other thing less." Near-verbatim twice, and the same coming-down-meant-X/going-up-means-Y turn also drives Ch58 (the split) and Ch62 (the crossing-line honesty vs. the old hiding). The device is fine; the phrase is now a tell. Bench "said the other thing" — render the inversion without the tag.
+- **FLAG #2 — "I didn't hurry [at it]" is a refrain.** Ch57 "I didn't hurry at it," Ch58 "I didn't hurry and I didn't stop," Ch61 "I didn't hurry at it," Ch62 "I didn't hurry." Four times, near-verbatim, as the go-to way to render "he keeps a steady pace and won't rush the climb." Rest it — he can walk steady without narrating that he didn't hurry.
+- **FLAG #3 — the flat endings are getting SAMEY (not buttoned, but mannered).** Every one of the five climb chapters closes on the same up-and-onward beat, four of them on "up into/toward it": Ch58 "up into the first of the country that would know me," Ch59 "up into the part that counted," Ch60 "kept on up into it," Ch61 "up toward the next one," Ch62 "went up toward it." Flat is still holding (no meaning reached) — but "he climbed on, up into it" is now the reflex closer. Vary the last beat: end on the fire, the water, a thing seen, the legs, not always on the next stretch of up.
+- **TIC #4 — "the count reaching/working back into me" glossed 3×.** Ch58 (arithmetic), Ch59 "reaching back down through my own head," Ch62 "The count had been working back into me the whole climb." It's the window's through-line so some is fair, but the explicit gloss is now a habit. Let the tells (cuff, counting, rehearsed line, minding-leavings) carry it without re-naming the mechanism each time.
+
+### Pace — one beat each, technically; the SHAPE is the problem
+- Seven distinct micro-screws on paper: Ch56 read-confirmed-from-outside, Ch57 the first move up (leaves the fire), Ch58 first leg / split re-met / the cuff, Ch59 crossing-line re-met / counting-days, Ch60 fork re-met / rehearsed-line, Ch61 first lamp re-met / people-soon, Ch62 second lamp + first person-sign / minding-leavings. Each moves him forward physically (real reverse geography, correct order) and each exposure register is genuinely fresh — cuff (wrist) → counting (time) → rehearsed line (speech) → step-out-of-light (habit) → minding-leavings (hands), the head→hands escalation deliberate and tracked. So it is NOT the Ch16–20 not-deciding stall, and it is NOT the same tell five times.
+- **BUT the STRUCTURAL UNIT is now visible six chapters running and the reader can feel the metronome.** Ch58–62 are the identical machine: *climb a leg → re-meet a backward landmark → catch a fresh tell → name it as the count reaching back → set it down → walk on.* This is exactly the shape every prior audit caught hardening (Ch11–13 orbit, Ch16–20 stall, Ch25–27 template, Ch32–34 solo-terrain, Ch53–55 number-orbit) — and this window ran it the longest of any of them. It's on the right side of the line by a hair, held up only by the freshness of each tell and the forward geography. The well is dry. Two devices are spent: (a) the **"landmark re-met from below"** callback — Ch58 split, Ch59 crossing-line, Ch60 fork, Ch61 first lamp, four straight; Ch62 already broke it (new second lamp + person-sign) on the right instinct, so do NOT go back to it; (b) the **"catch a tell / set it down / walk on"** beat at its ceiling after five in a row.
+- **The geography micro-beats are also starting to blur.** "The deep cold leaving" (Ch58–60), "the marks of a hand coming back" (Ch60–61), "the lamps drawing closer" (Ch61–62) are three renderings of the one idea — *re-entering the counted world* — spread thin across five chapters. Distinct physical locations, yes, but the same conceptual motion narrated five ways.
+
+### The structural call — Ch63 must break the climb's shape
+- **Do NOT run a seventh "climb a leg, catch a fresh tell, set it down" chapter.** The seed's leading options (a third lamp / the first frayed-edge of a peopled place) are fine *only if the shape changes with them.* The cleanest break is to **compress or jump**: either fold the remaining lamps into one chapter that actually arrives somewhere (a real change of state — sound, a voice, a second tended fire that has a person AT it), or bring the **top stop (Ch30/31) or the first human contact of the return onto the page sooner** than a strict lamp-by-lamp reverse of Ch27–33 would allow. The down-trip earned its slowness by being the first time through unknown country; the up-trip is known country run backward, and it cannot afford the same chapter-count without going stale. Vary the rhythm: a longer stride, a jump-cut in the walking, or CONTACT.
+- **If Ch63 keeps the exposure-tell device, keep it to a SINGLE caught-and-set-down touch** (the Ch57–62 model) and make the register fresh again — do NOT recycle cuff / counting-days / rehearsed-line / lamp-means-people / minding-leavings. But better: let the break-in-shape carry the chapter and let the tell be lighter or absent for one, so the pattern stops announcing itself.
+
+### Continuity / reveal-map — clean, no errors
+- Nothing revealed ahead of the map. No built-it, no killed-the-world, no named draw-down. "Careful was a leash" stays a parked suspicion (untouched this window, fine).
+- Reverse geography re-met in correct order: split (Ch38/39) → crossing-line (Ch36) → fork (Ch34) → first far lamp (Ch33), all backward, all consistent. Ch62's SECOND far lamp is new-to-page but consistent (the down-trip only rendered the first; passing others off-page is not a contradiction).
+- Wrist DARK consistent (Ch5/53). Number UNNUMBERED, never re-named. Maning offstage since Ch57 (half-woke), consistent — no accidental re-touch. Pia/Sol/Lim/Tessie/Danny offstage, consistent. No contradictions vs state.md or canon.
+- Self-suspicion correctly rested (the reads this window are of terrain and his own tells, not the cold machine-read). On-map.
+
+### Concrete fixes for Ch63+
+1. **BREAK THE CLIMB'S SHAPE.** Six chapters of "climb a leg / catch a tell / set it down / walk on" is the ceiling — do not run a seventh. Compress the remaining lamps, jump the walking, or bring contact / the top stop onto the page. The "landmark re-met from below" device is spent (Ch62 rightly dropped it — stay dropped).
+2. **Bench "said the other thing"** — render the coming-down-vs-going-up inversion without the verbal tag.
+3. **Rest "I didn't hurry [at it]"** — four times as the steady-pace gloss; drop it.
+4. **Vary the closing beat** — flat is holding, but "he climbed on, up into it" is now the reflex closer five running; end on something other than the next stretch of up.
+5. **Stop re-glossing "the count reaching back into me"** — let the tells carry it.
+6. **Fresh exposure register only** (if used at all) — no cuff / counting / rehearsed-line / people-soon / minding-leavings repeat; single touch, caught and set down.
+7. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; young-world crack + deep-geology stay rested (the deep is behind him — don't re-touch the cold/smell/water-made rock); keep the number UNNUMBERED; endings flat.
+
+*(Audit run — no chapter written. Next chapter is Ch63.)*
