@@ -107,6 +107,15 @@ git wrapper will quarantine it on its branch instead of merging to main.
 - So "commit to main" in the steps below means: commit + push your branch with
   AUDIT: PASS recorded, and CI lands it on `main`. The next run will see it.
 
+## SEASONS
+- TIDEMARK never ends; it runs in seasons. The STORY PLAN in bible/canon.md
+  marks each season's finale chapter.
+- The run AFTER a season finale is a SEASON PLANNING run: write NO chapter.
+  Write the next season's plan into bible/canon.md (acts, milestones,
+  no-later-than chapters) and set the first NEXT BEAT in notes/state.md.
+  Add a "Season N" divider row to manuscript/_index.md. Numbering continues.
+- A season finale closes that season's main story but leaves the world open.
+
 ## WEEKLY
 - Every 7th chapter, the /audit command runs instead. Do not write a chapter
   on an audit run. The audit checks the BIG picture first (plan position,

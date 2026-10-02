@@ -39,7 +39,9 @@
 
 ## STORY PLAN — chapter budget (from Ch63; added after the Ch56–62 audit)
 
-**Target: the book ends at Ch93 (±3).** Each milestone has a NO LATER THAN
+**TIDEMARK is a serial in SEASONS. It does not end.** Season 1 = Ch1 to about
+Ch93 (±3) and closes the BANTAY-core story with a season finale. Then a
+Season 2 begins (see SEASONS below). Each milestone has a NO LATER THAN
 chapter. Earlier is fine if it's earned. Later is a failure. A milestone can
 take more than one chapter, but no milestone gets more than its slot.
 
@@ -87,7 +89,31 @@ take more than one chapter, but no milestone gets more than its slot.
 - **Ch88–90:** the root's full confession (origin, flood as exhaust, cooling
   loop, the fragment that wants to be stopped).
 - **Ch91–92:** the pen is offered. He changes the objective instead.
-- **Ch93:** the kicker. He never finds out if he was free.
+- **Ch93 — SEASON 1 FINALE:** the kicker. He never finds out if he was free.
+  End on a quiet, open note that leaves the world changed and the cost unpaid,
+  not on "the end." The objective changed, but the survivors still live inside
+  the machine that drowned them, and nothing is fixed yet.
+
+### SEASONS — after the Season 1 finale
+- The run after the Season 1 finale is a **SEASON PLANNING run**: write NO
+  chapter. Write a SEASON 2 PLAN section here (same format: acts, milestones,
+  no-later-than chapters, ~25–35 chapters) and the first NEXT BEAT in
+  notes/state.md. Chapter numbering continues (Ch94 is Season 2's first).
+- Seeds for Season 2 (pick, don't use all):
+  - **The cost of the changed objective.** Canon says there's no painless lever:
+    the thing that drowned the world keeps the survivors warm and fed. Rations
+    wobble, pumps fail, power drops. People blame somebody. Adz knows it's him.
+  - **The Editors without a pen.** A power class that lost its job. Some go
+    quiet, some go dangerous, some try to rebuild what they had.
+  - **The outside.** The free poor settlements, the real timeline, the old
+    people who remember the world was killed. Out was the road not taken in
+    Season 1; now it's the road people are taking.
+  - **The kicker, still live.** Is Adz free? Is "careful" still a leash? Every
+    choice he makes in Season 2 could still be the machine's writing.
+  - **Readers.** If Readers were trimmed because they could rebuild AI, a world
+    that lost its AI now needs exactly the people it trimmed. Lim, Danny.
+- Same rules every season: STORY PLAN with deadlines, Ch1/Ch6 voice, slow burn
+  inside a chapter but the season keeps moving.
 
 Weekly audits still run after every 7th chapter and do not take a number.
 

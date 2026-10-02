@@ -33,7 +33,8 @@ _Full history up to Ch62 is archived in notes/archive/state-through-ch62.md. Do 
 - Out vs down (Ch51): out you come back to be counted; down you stay off.
 
 ## PLAN POSITION
-- Act III-a Surfacing (Ch63–66). Next milestone: Ch63 = reach the top stop.
+- Season 1, Act III-a Surfacing (Ch63–66). Next milestone: Ch63 = reach the top stop.
+- Season 1 finale: ~Ch93. Then a Season Planning run, then Season 2.
 
 ## NEXT BEAT (Ch63)
 Time skip. Compress the rest of the long run (the remaining lamps, the days,

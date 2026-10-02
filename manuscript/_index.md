@@ -70,6 +70,7 @@
 | 61 | The First of Them | done |
 | 62 | The Banked Fire | done |
 | — | Ch56–62 weekly audit | done (2026-08-17) |
+| — | **Season 1** finale planned ~Ch93; then a Season Planning run (no chapter) | — |
 | 63 | (title TBD) | pending |
 
 _Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48, Ch49–55, Ch56–62 (every 7). The Ch56–62 audit is DONE (2026-08-17; all in notes/audit.md). Verdict: continuity clean, voice on-model, all standing fixes held — but the Ch57–62 lamp-by-lamp climb is the tread-water window the last three audits warned about, arrived: six chapters on one structural unit (climb a leg / re-meet a backward landmark / catch a fresh tell / set it down / walk on). NOT a stall and each tell is fresh, but the metronome is now audible. THE NEXT RUN writes Ch63, which MUST break the climb's shape (compress the remaining lamps / jump the walking / bring contact or the top stop onto the page) — do not run a seventh climb chapter. See notes/audit.md and notes/state.md for the full Ch63 fix list._
