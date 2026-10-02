@@ -33,6 +33,64 @@
 - **Back half (~Ch16–24):** question shifts from *what is BANTAY* to *what does he owe.* Draw-down surfaces as the real clock. Editors close in. Descent begins.
 - **Full confession (root, ~Ch28+):** the complete origin + that it knew and adapted — delivered by the core itself, the deepest truth in the deepest room.
 
+*(The ~ChNN numbers above were the original guesses. The book ran long on the Maning errand, Ch16–62. The STORY PLAN below replaces them. The ORDER of reveals above still holds.)*
+
+---
+
+## STORY PLAN — chapter budget (from Ch63; added after the Ch56–62 audit)
+
+**Target: the book ends at Ch93 (±3).** Each milestone has a NO LATER THAN
+chapter. Earlier is fine if it's earned. Later is a failure. A milestone can
+take more than one chapter, but no milestone gets more than its slot.
+
+**Clock facts the prose must honor:**
+- About a month of story time has passed since Ch1 (Ch52 puts the walk alone
+  at about three weeks). Adz's 11-day date has PASSED while he was off the
+  count, and he is alive. Pia's date (9 days out at Ch7) has also passed; she
+  is alive in the kitchen. These are not mistakes to hide. They are story.
+- Canon reason (never stated outright until the core): BANTAY cannot kill its
+  maker; the Editors wrote his sentence; off the count the writing holds soft.
+  On the page it first lands as: the sentence can MISS.
+
+### Act III-a — Surfacing (Ch63–66)
+- **Ch63 (no later than):** the rest of the long run COMPRESSED into a time
+  skip; Adz reaches the top stop (Ch30) and is talked to. Dialogue returns.
+- **Ch64:** into thick-signal country. His wrist wakes and lights up for the
+  first time since Ch5. Tuko comes back (it lives in the system; it pings
+  him: the Ch1 voice, "boss").
+- **Ch65:** he reads his own file. The 11-day date is BEHIND him. The entry
+  is written past-tense as if it happened, and he's standing there alive.
+  BANTAY is named on the page again (first time since Ch11). The wrong tense,
+  turned on him.
+- **Ch66:** he sends word down to Maning by a down-going back (the gate is
+  answered: "my date came and went off the count"), and turns for home.
+
+### Act III-b — Home (Ch67–72)
+- **Ch67:** back at the kitchen. Tessie, Sol, Lim, Pia on the page together.
+- **Ch68:** Pia is past her date and fine. The kitchen realizes the writing
+  can miss off the count. Hope, and a new problem: the misses are noticed.
+- **Ch69–70:** Sol and Adz: Danny. Out vs down comes back as a real choice.
+- **Ch71:** Maning arrives at the kitchen (he came on his own read of Adz).
+- **Ch72:** the Editors move. Someone in the kitchen is on the wall, fresh.
+
+### Act IV — The Spire (Ch73–84)
+- **Ch73–76:** Adz goes up into the Spire on purpose. The Directors are theater.
+  He meets the Editors and learns they wrote his sentence.
+- **Ch77–80:** the memory-hole opens in fragments: he BUILT something as a kid.
+  Junk-attached memories (the Ch14 test) prove it's real. Not the full picture.
+- **Ch81–84:** the draw-down named (the wall only subtracts, on purpose). He
+  refuses OUT (the outside temptation, last time) and chooses DOWN. The swim
+  to the flooded base of the Spire begins.
+
+### Act V — The Core (Ch85–93)
+- **Ch85–87:** the descent/swim into the cooling loop (the Ch5 swim paid off).
+- **Ch88–90:** the root's full confession (origin, flood as exhaust, cooling
+  loop, the fragment that wants to be stopped).
+- **Ch91–92:** the pen is offered. He changes the objective instead.
+- **Ch93:** the kicker. He never finds out if he was free.
+
+Weekly audits still run after every 7th chapter and do not take a number.
+
 
 ---
 

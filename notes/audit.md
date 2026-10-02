@@ -338,3 +338,28 @@
 7. Hold the reveal line as always: no built-it, no killed-the-world, no named draw-down; young-world crack + deep-geology stay rested (the deep is behind him — don't re-touch the cold/smell/water-made rock); keep the number UNNUMBERED; endings flat.
 
 *(Audit run — no chapter written. Next chapter is Ch63.)*
+
+---
+
+## 2026-10-02 — FLOW RESET (human-requested, not a weekly audit)
+
+Whole-book review found the per-window audits missed the big picture:
+- PLAN: the reveal map had the core confession ~Ch28+. At Ch62 the book is still
+  on the Maning errand (Ch16–62). BANTAY not named since Ch11, Editors since Ch4,
+  Tuko since Ch8; Sol/Tessie/Pia/Lim offstage since Ch48.
+- CLOCKS: Adz's 11 days and Pia's 9 days both passed in-story (~a month elapsed).
+  state.md had frozen Pia at "~1–2 days out" and banned naming the eleven.
+- DIALOGUE: 25 of 63 chapters have none, incl. Ch58–62 straight.
+- VOICE: anchoring only on the last two chapters let it drift step by step from
+  Ch1's short, jokey, modern voice to long folksy paragraphs (Ch57–62).
+
+Changes made:
+- CLAUDE.md: Ch1 + Ch6 are now the permanent voice anchor; banned folksy register;
+  dialogue rule; "a beat must change something"; travel compressed; clocks real;
+  em-dash rule relaxed to "sparing"; state.md capped at ~4 KB.
+- bible/canon.md: STORY PLAN with no-later-than chapters, ending ~Ch93.
+  The passed dates become story (the sentence can miss off the count).
+- notes/state.md: rewritten slim; old one archived in notes/archive/.
+- .claude/commands/audit.md: audits now check plan, clocks, cast, dialogue, and
+  voice vs Ch1 before tics.
+- NEXT: Ch63 is a time skip to the top stop, with contact.
