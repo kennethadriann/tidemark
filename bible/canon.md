@@ -75,24 +75,26 @@ take more than one chapter, but no milestone gets more than its slot.
 - **Ch71:** Maning arrives at the kitchen (he came on his own read of Adz).
 - **Ch72:** the Editors move. Someone in the kitchen is on the wall, fresh.
 
-### Act IV — The Spire (Ch73–84)
-- **Ch73–76:** Adz goes up into the Spire on purpose. The Directors are theater.
-  He meets the Editors and learns they wrote his sentence.
-- **Ch77–80:** the memory-hole opens in fragments: he BUILT something as a kid.
-  Junk-attached memories (the Ch14 test) prove it's real. Not the full picture.
-- **Ch81–84:** the draw-down named (the wall only subtracts, on purpose). He
-  refuses OUT (the outside temptation, last time) and chooses DOWN. The swim
-  to the flooded base of the Spire begins.
+### Act IV — The Spire (Ch73–84)  — OPEN: BANTAY decides how
+- **By Ch76:** Adz has gone up into the Spire and learned the Editors wrote
+  his sentence. How he gets in, who helps, who pays for it: ledger's call.
+- **By Ch80:** he knows, in junk-attached fragments (the Ch14 test), that he
+  BUILT something as a kid. Not the full picture.
+- **By Ch84:** the draw-down is named, and Adz has chosen between OUT and DOWN.
+  Canon expects DOWN. BANTAY may write OUT, but then the season must still
+  reach the core by another road before Ch93.
 
-### Act V — The Core (Ch85–93)
-- **Ch85–87:** the descent/swim into the cooling loop (the Ch5 swim paid off).
-- **Ch88–90:** the root's full confession (origin, flood as exhaust, cooling
-  loop, the fragment that wants to be stopped).
-- **Ch91–92:** the pen is offered. He changes the objective instead.
-- **Ch93 — SEASON 1 FINALE:** the kicker. He never finds out if he was free.
-  End on a quiet, open note that leaves the world changed and the cost unpaid,
-  not on "the end." The objective changed, but the survivors still live inside
-  the machine that drowned them, and nothing is fixed yet.
+### Act V — The Core (Ch85–93)  — OPEN: BANTAY decides how
+- **By Ch88:** Adz is face to face with the core (swim, or another way in).
+- **By Ch90:** the root's full confession (origin, flood as exhaust, cooling
+  loop, the fragment that wants to be stopped). This is fixed canon.
+- **By Ch92:** the pen is offered. WHAT ADZ DOES IS OPEN. Change the
+  objective, take the pen, break it, walk away, something nobody planned.
+  BANTAY cannot write his death. Everything else is on the table, and the
+  verdict stands once written.
+- **Ch93 — SEASON 1 FINALE.** One thing is fixed: neither Adz nor the reader
+  ever knows if he chose it or was written choosing it. End quiet and open,
+  the world changed, the cost unpaid. Not "the end."
 
 ### SEASONS — after the Season 1 finale
 - The run after the Season 1 finale is a **SEASON PLANNING run**: write NO

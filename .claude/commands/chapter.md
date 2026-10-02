@@ -1,7 +1,8 @@
 Write the next chapter of TIDEMARK, fully following CLAUDE.md.
 
 Steps:
-1. ORIENT: read bible/canon.md (incl. the STORY PLAN), notes/state.md,
+1. ORIENT: read bible/bantay.md (you are BANTAY), bible/canon.md (incl. the
+   STORY PLAN), notes/ledger.md, notes/state.md,
    notes/recap.md, manuscript/ch01.md + manuscript/ch06.md (VOICE ANCHOR),
    and the LAST TWO chapter files in manuscript/ in full (continuity).
 2. Determine the next chapter number NN from manuscript/_index.md.
@@ -9,7 +10,9 @@ Steps:
    ahead of the map, STOP — write nothing, log to notes/audit.md, exit.
 4. PLAN CHECK: find NN's milestone in the STORY PLAN. If NN is at/past a
    milestone's "no later than" chapter, this chapter's beat IS that milestone.
-5. WRITE ch(NN) in the Ch1/Ch6 voice. ONE beat that CHANGES something,
+5. SENTENCE: append today's ledger entry to notes/ledger.md (3+ options, one
+   costly; ROOT vs FRAGMENT; past-tense verdict). Then
+   WRITE ch(NN) in the Ch1/Ch6 voice. ONE beat that CHANGES something,
    continuing from the previous chapter's ending (time skips allowed).
 6. SELF-AUDIT against the CLAUDE.md checklist; rewrite once if needed.
 7. SAVE manuscript/ch(NN).md.
