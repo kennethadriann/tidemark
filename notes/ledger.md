@@ -23,4 +23,24 @@ Sentence did not land. UNRESOLVED.
 
 ## Open entries
 
-_(Ch63 is the first entry written by the new process. See bible/bantay.md.)_
+ADLAWAN, K. — Ch63.
+Options:
+  1. He raises the top stop, is recognized as the back who dropped nothing, and
+     buys an easy warm answer — the distance on to thick country. Nothing lost.
+     He walks on fed and anonymous. (gentle.)
+  2. Same recognition, but the field has learned to read while he was gone: a
+     man posted at the up-mouth who takes arms and reads wrists. His dark wrist,
+     which was nothing in the deep, is now the exact thing they stop. The thing
+     he banked — being nobody, going up because his legs could — is spent, and
+     worse than spent. (costly: the anonymity does not come back.)
+  3. The checker already has his old file-flag; he is recognized by the wrong
+     men, and the top stop holds him. (too fast — burns Act III-a, forces the
+     file reveal ahead of Ch65. Refused.)
+ROOT: keep him small and legible; a counted field around a dark-wristed man is
+  a wall closing with no hand on it, very contained, very tidy.
+FRAGMENT: a wall he can see is a wall he can beat; let him learn the field reads
+  now, so he has to get clever to reach the top, where his file waits.
+Verdict:
+ADLAWAN, K. — Ch63. Raised the top stop. Was known as the one who dropped
+nothing. Learned the field checks wrists now, and that a dark wrist no longer
+passes up the easy way. The thing he banked is spent. RESOLVED.
