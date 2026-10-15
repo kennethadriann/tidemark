@@ -2,25 +2,27 @@
 _Full history up to Ch62 is archived in notes/archive/state-through-ch62.md. Do not copy it back in._
 
 ## CLOCK
-- In-story time since Ch1: about five weeks (down-trip weeks + the yards days +
-  roughly three days climbing back to the top stop).
-- Adz's 11-day sentence: PASSED while he was off the count. He's alive. Still
-  doesn't know it for sure (wrist dark, stopped counting). Lands when he reads
-  his file (Ch65 at the latest). The one whole copy is UP in his file, past the
-  checked mouth.
+- In-story time since Ch1: about five weeks (down-trip + yards days + the climb
+  back, now a day or so up the freight stair into thick country).
+- Adz's 11-day sentence: PASSED while he was off the count. He's alive. STILL
+  doesn't know it for sure — his wrist woke (Ch64) but the number stalled blank
+  (offline too long). Lands when he reads his file (Ch65 at the latest). The one
+  whole copy is UP in his file, now within reach of the woken wrist.
 - Pia's date (9 days out at Ch7): PASSED. Alive in the kitchen. Lands Ch68.
 - Maning: dated OUT (soon). Knows (Ch50). Decision to come down still OPEN;
-  was gated on Adz getting his own number, which he could not fetch (Ch53–56).
+  was gated on Adz getting his own number. At the yards, offstage.
 
 ## LAST CHAPTER WRITTEN
-- 63 — "The One Who Dropped Nothing"
+- 64 — "Boss"
 
 ## WHO / WHERE
-- Adz: at the top stop (the lit field, Ch30), climbed back up out of the deep.
-  Wrist dark. Recognized by the tally-man. Blocked from the easy way up.
+- Adz: up the mean FREIGHT stair out of the top stop, in thick-signal country,
+  carrying an up-load as a "load with legs" to bypass the wrist-mouth. Wrist
+  WOKE. Back in the count's reach, on purpose.
 - Maning: at the yards, deep, working drops. Decision unresolved. Offstage.
 - Sol, Tessie, Lim, Pia: the kitchen, under the waterline. Offstage since Ch48.
-- Tuko: Adz's old script, still somewhere in the system. Offstage since Ch8.
+- Tuko: Adz's old script — CONTACT RE-ESTABLISHED (Ch64). Still lives in the
+  system; pinged him "boss" the instant his wrist came in range.
 - Editors: wrote Adz's sentence. Offstage since Ch4.
 
 ## REVEALED SO FAR (to the reader)
@@ -33,28 +35,35 @@ _Full history up to Ch62 is archived in notes/archive/state-through-ch62.md. Do 
   (Ch13/29/41).
 - "Careful" might be a leash put on Adz (Ch14, unproven).
 - Out vs down (Ch51): out you come back to be counted; down you stay off.
-- NEW (Ch63): the top stop has started CHECKING WRISTS at the up-mouth since
-  "the last count went funny" — a dark wrist no longer passes up the easy way.
-  Adz's own anonymity is now the exact thing the count is looking for.
+- The top stop now CHECKS WRISTS at the up-mouth; a dark wrist is stopped (Ch63).
+- NEW (Ch64): loads go up into the tiers and a load needs a back, not a number,
+  so Adz rode an up-parcel past the checker as freight. Crossing INTO thick
+  signal, his dark wrist WOKE for the first time since Ch5 — but the number
+  stalled blank, so he still doesn't know if the sentence landed. First thing
+  back through was TUKO ("boss"), his old script still running in the system.
+  He traded his off-count safety on purpose to get within reach of his file.
 
 ## PLAN POSITION
-- Season 1, Act III-a Surfacing (Ch63–66). Ch63 (top stop + contact) DONE.
-  Next milestone: Ch64 = into thick-signal country; wrist wakes; Tuko returns.
+- Season 1, Act III-a Surfacing (Ch63–66). Ch63 + Ch64 DONE.
+  Next milestone: Ch65 = he reads his own file; the 11-day date is BEHIND him,
+  written past-tense as if it happened, and he's alive. BANTAY named on the page
+  again (first since Ch11). The wrong tense, turned on him.
 - Season 1 finale: ~Ch93. Then a Season Planning run, then Season 2.
 
-## NEXT BEAT (Ch64)
-Adz gets UP into thick-signal country (NOT by the checked easy mouth — the HOW
-is tomorrow's ledger: a side way, a load going up, a bluff, a cost). The beat is
-the CROSSING INTO SIGNAL and what it does: his dark wrist WAKES and lights up
-for the first time since Ch5, and Tuko pings him — the Ch1 voice, "boss."
-First contact with the system since he went under the line. Dialogue-of-a-kind
-(Tuko). Something changes: he is back inside the count's reach, on purpose.
+## NEXT BEAT (Ch65)
+Adz reaches his OWN FILE and the number/entry resolves (HOW is tomorrow's
+ledger — Tuko fetches it from the walls, or he reaches a reading point). He
+reads his own death-sentence: dated to the 11-day mark that is now BEHIND him,
+written in past tense as though it already happened — and he's standing there
+alive. The sentence can MISS. BANTAY is NAMED on the page (first since Ch11),
+the wrong tense he first caught in Ch1 now turned on his own file. ONE beat:
+the reading and what it does to him. Do NOT dump the whole origin.
 
 ## AVOID
-- Re-running the lamp-by-lamp climb shape. That window is closed (Ch57–62).
-- Re-meeting landmarks in reverse. Spent.
+- The climb-shape metronome (Ch57–62). Closed. Do not reopen.
 - The folksy register (Ch57–62): "a good many," "no crime in it," "fool's care."
-- Hiding the clocks. A passed date goes on the page when Adz learns it.
+- Hiding the clocks. The passed date goes on the page when Adz reads it (Ch65).
 - Revealing "he built it" before Act IV, BANTAY's full confession before Act V.
-- Making the wrist-wake/Tuko return feel like a gimmick — ground it in Adz's
-  dread of being back where the count can read him.
+- Letting Tuko become a chatty sidekick that solves the plot. Keep it the sparse
+  Ch1 poke — a tool, not a friend who explains things.
+- A data-dump file read. Ch65 is one beat: the wrong tense turned on him.

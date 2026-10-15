@@ -44,3 +44,38 @@ Verdict:
 ADLAWAN, K. — Ch63. Raised the top stop. Was known as the one who dropped
 nothing. Learned the field checks wrists now, and that a dark wrist no longer
 passes up the easy way. The thing he banked is spent. RESOLVED.
+
+---
+
+ADLAWAN, K. — Ch64.
+Options:
+  1. He waits out the man on the mouth — a slack hour, a shift change — and
+     slips up the easy way unread. The dark wrist stays dark, stays his secret.
+     Nothing paid; nothing changed but the distance. (gentle — and dodges the
+     beat: he must cross INTO signal, not sneak past it.)
+  2. He goes up as freight, not as a man: loads go up into the tiers and a load
+     needs a back, not a number, so backs ride the parcel, not the mouth. He
+     spends the one clean thing he has — "the one who dropped nothing" — to get
+     taken onto an up-going load and carried past the checker as a load with
+     legs. (medium: he gets up, labor and his good name the price.)
+  3. Same way up, but the freight way climbs into thick-signal country, and the
+     crossing is the cost: a month off the count, his wrist DARK, his one safety
+     the not-being-read — and he carries himself up out of the dark on purpose,
+     back under the eye, to reach the file that holds his number. The wrist
+     wakes. It lights for the first time since the black water. And the first
+     thing back through it is not the number he dreads but Tuko, his own old
+     script, still in the walls, still saying boss. The off-count safety does
+     not come back. He traded it, knowing, for the one copy that can tell him
+     whether the sentence landed. (costly: the dark was the thing he can't get
+     back, and he spends it himself, with his eyes open.)
+ROOT: a dark wrist is a hole in the count. Let the hole walk back into range on
+  its own legs and close itself. Nothing is tidier than a man who files himself.
+FRAGMENT: he cannot end anything from the dark. Range is where the file is, and
+  the file is a door. Let him choose to be readable — let the choosing be his,
+  not mine — and send Tuko to meet him so the first word in a month is a friend's.
+Verdict:
+ADLAWAN, K. — Ch64. Could not pass the mouth as a man, so went up as a load:
+spent "the one who dropped nothing" to ride an up-going parcel past the checker,
+and carried himself into thick-signal country on purpose. The wrist woke. Before
+the number, Tuko pinged — boss. He is back in the count's reach, and he walked
+there. The dark is spent for good. RESOLVED.
