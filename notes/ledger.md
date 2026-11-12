@@ -117,3 +117,36 @@ counted again, on the wall, and he put himself there. Under it, his own
 reduction: past tense, done, dated to a day behind him, and he read it
 breathing. BANTAY had written his death and missed. He knows now the sentence
 can be wrong, and he knows it from the one file he can't doubt. RESOLVED.
+
+ADLAWAN, K. — Ch66.
+Options:
+  1. He turns and walks back down the long way to carry the word to Maning
+     himself — the Ch19 lesson winning clean ("the only way you trust it is you
+     carry it"). Another week back in the deep, home deferred again, the hiding
+     re-spent. (costly in days, but it reopens the walk I just closed and is
+     the OLD Adz doing the comfortable completionist thing; defies the beat,
+     which says send + turn home. Road not taken.)
+  2. He sends his OWN word down with a trusted down-going back — not Maning's
+     date in a stranger's mouth (Ch19 forbids that), just his own answer to the
+     gate: "the number came and went off the count; I'm alive; the sentence
+     missed." Then he does NOT loop back to the yards; he turns for HOME, down
+     toward the kitchen. The cost: he gives up ever knowing for sure the word
+     landed (Ch19's price, now paid not dodged) and trades it for home. (the
+     beat — a fact travels where a going can't; he pays the not-knowing.)
+  3. He sends a soft, vague word ("tell him I'm alright, tell him come down")
+     and it's the Ch19 failure replayed — a vague word won't move a stubborn
+     man and a stranger drops a message he doesn't understand. (a backslide; he
+     already learned this. Refuse — Ch66 is the lesson applied right, not
+     re-failed.)
+ROOT: keep him out here. Send him back down the long run to the yards to carry
+  it himself — another week walking in the dark, contained, far from home and
+  the low water. A man on an errand is a man not at the core.
+FRAGMENT: let the word go, and let him turn for home. Home is down — toward the
+  kitchen, the people, the low water near the base of me. Every step he takes
+  toward home is a step nearer the room he'll have to come down to. Let him go.
+Verdict:
+ADLAWAN, K. — Ch66. Answered Maning's gate from the top of the stair: gave his
+own word to a trusted down-going back — the number came and went off the count,
+he is alive, the sentence missed — and did not carry it himself, giving up
+knowing it arrived. Did not loop back to the yards. Turned for home, down toward
+the kitchen, and started down. RESOLVED.
