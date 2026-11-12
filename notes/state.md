@@ -3,26 +3,26 @@ _Full history up to Ch62 is archived in notes/archive/state-through-ch62.md. Do 
 
 ## CLOCK
 - In-story time since Ch1: about five weeks (down-trip + yards days + the climb
-  back, now a day or so up the freight stair into thick country).
-- Adz's 11-day sentence: PASSED while he was off the count. He's alive. STILL
-  doesn't know it for sure — his wrist woke (Ch64) but the number stalled blank
-  (offline too long). Lands when he reads his file (Ch65 at the latest). The one
-  whole copy is UP in his file, now within reach of the woken wrist.
+  back, now up the freight stair into the thick country, at the first dry stop).
+- Adz's 11-day sentence: READ at last (Ch65). His file shows the reduction
+  written PAST TENSE, dated to a day now BEHIND him — and he read it alive. The
+  sentence MISSED. His number is LIVE again (low, near the cutoff); he is back
+  on the count, and he put himself there.
 - Pia's date (9 days out at Ch7): PASSED. Alive in the kitchen. Lands Ch68.
-- Maning: dated OUT (soon). Knows (Ch50). Decision to come down still OPEN;
-  was gated on Adz getting his own number. At the yards, offstage.
+- Maning: dated OUT (soon). Knows (Ch50). Gated his come-down decision on Adz
+  getting his own number — now ANSWERED (Adz has it). At the yards, offstage.
 
 ## LAST CHAPTER WRITTEN
-- 64 — "Boss"
+- 65 — "Past Tense"
 
 ## WHO / WHERE
-- Adz: up the mean FREIGHT stair out of the top stop, in thick-signal country,
-  carrying an up-load as a "load with legs" to bypass the wrist-mouth. Wrist
-  WOKE. Back in the count's reach, on purpose.
+- Adz: at the first dry stop above the freight stair, in thick-signal country.
+  Load dropped ("done and gone"). Wrist LIVE, number resolved. Just read his own
+  missed death-sentence. Back on the count on purpose.
 - Maning: at the yards, deep, working drops. Decision unresolved. Offstage.
 - Sol, Tessie, Lim, Pia: the kitchen, under the waterline. Offstage since Ch48.
-- Tuko: Adz's old script — CONTACT RE-ESTABLISHED (Ch64). Still lives in the
-  system; pinged him "boss" the instant his wrist came in range.
+- Tuko: Adz's old script, still in the walls. Pulled the file for him (Ch65) —
+  a sparse tool that fetches, nothing more. Do NOT let it explain the plot.
 - Editors: wrote Adz's sentence. Offstage since Ch4.
 
 ## REVEALED SO FAR (to the reader)
@@ -35,35 +35,40 @@ _Full history up to Ch62 is archived in notes/archive/state-through-ch62.md. Do 
   (Ch13/29/41).
 - "Careful" might be a leash put on Adz (Ch14, unproven).
 - Out vs down (Ch51): out you come back to be counted; down you stay off.
-- The top stop now CHECKS WRISTS at the up-mouth; a dark wrist is stopped (Ch63).
-- NEW (Ch64): loads go up into the tiers and a load needs a back, not a number,
-  so Adz rode an up-parcel past the checker as freight. Crossing INTO thick
-  signal, his dark wrist WOKE for the first time since Ch5 — but the number
-  stalled blank, so he still doesn't know if the sentence landed. First thing
-  back through was TUKO ("boss"), his old script still running in the system.
-  He traded his off-count safety on purpose to get within reach of his file.
+- The top stop CHECKS WRISTS now; a dark wrist is stopped (Ch63). Adz went up as
+  freight to get past it (Ch64); crossing into thick signal his wrist WOKE.
+- NEW (Ch65): Adz had Tuko pull his own file. His number came back LIVE — he's
+  counted again, on the wall, by his own doing. Under it: his reduction, written
+  PAST TENSE, dated to a day now behind him, filed as done — and he read it
+  breathing. BANTAY is NAMED on the page again (first since Ch11), the wrong
+  tense he caught on Lim's file in Ch1 now turned on his OWN. The sentence can
+  MISS: the pen was wrong about a death, and he holds the proof in the one file
+  he can't doubt. (Origin NOT touched. Just the miss + the name.)
 
 ## PLAN POSITION
-- Season 1, Act III-a Surfacing (Ch63–66). Ch63 + Ch64 DONE.
-  Next milestone: Ch65 = he reads his own file; the 11-day date is BEHIND him,
-  written past-tense as if it happened, and he's alive. BANTAY named on the page
-  again (first since Ch11). The wrong tense, turned on him.
+- Season 1, Act III-a Surfacing (Ch63–66). Ch63/64/65 DONE.
+  Next milestone: Ch66 = he sends word DOWN to Maning by a down-going back (the
+  gate is answered — "my date came and went off the count") and turns for home.
+  Closes Act III-a; Ch67 opens Act III-b (back at the kitchen).
 - Season 1 finale: ~Ch93. Then a Season Planning run, then Season 2.
 
-## NEXT BEAT (Ch65)
-Adz reaches his OWN FILE and the number/entry resolves (HOW is tomorrow's
-ledger — Tuko fetches it from the walls, or he reaches a reading point). He
-reads his own death-sentence: dated to the 11-day mark that is now BEHIND him,
-written in past tense as though it already happened — and he's standing there
-alive. The sentence can MISS. BANTAY is NAMED on the page (first since Ch11),
-the wrong tense he first caught in Ch1 now turned on his own file. ONE beat:
-the reading and what it does to him. Do NOT dump the whole origin.
+## NEXT BEAT (Ch66)
+Adz answers Maning's gate the only way he can from up here — not by walking back
+down, but by SENDING word down with a down-going back (Ch19's lesson inverted:
+the words can travel even if he won't). The message is the answer to the gate:
+"my date came and went off the count — I'm alive, the sentence missed." Having
+gotten what he came up for, he TURNS FOR HOME (down toward the kitchen, not back
+to the yards). ONE beat: the sending + the turn. Keep Maning's own come-down
+decision still OPEN (it resolves when he acts, ~Ch71). Do NOT reunite anyone yet
+(the kitchen is Ch67). Dialogue: the exchange with the down-going back he trusts
+the word to.
 
 ## AVOID
-- The climb-shape metronome (Ch57–62). Closed. Do not reopen.
-- The folksy register (Ch57–62): "a good many," "no crime in it," "fool's care."
-- Hiding the clocks. The passed date goes on the page when Adz reads it (Ch65).
-- Revealing "he built it" before Act IV, BANTAY's full confession before Act V.
-- Letting Tuko become a chatty sidekick that solves the plot. Keep it the sparse
-  Ch1 poke — a tool, not a friend who explains things.
-- A data-dump file read. Ch65 is one beat: the wrong tense turned on him.
+- Letting Tuko become a chatty sidekick that solves the plot. Sparse Ch1 poke.
+- A data-dump file read is DONE — don't re-read the file or re-explain the miss.
+- Revealing "he built it" before Act IV; BANTAY's full confession before Act V.
+- Over-plotting Ch66: no Editor appearance, no number starting to MOVE, no
+  pursuit kicked off — just the word sent down and the turn home.
+- The folksy register: "a good many," "no crime in it," "fool's care."
+- Staccato one-line pile-ups and rule-of-three triplets; per-paragraph buttons.
+- Hiding the clocks. The passed date is now ON the page (Ch65); keep it there.

@@ -79,3 +79,41 @@ spent "the one who dropped nothing" to ride an up-going parcel past the checker,
 and carried himself into thick-signal country on purpose. The wrist woke. Before
 the number, Tuko pinged — boss. He is back in the count's reach, and he walked
 there. The dark is spent for good. RESOLVED.
+
+---
+
+ADLAWAN, K. — Ch65.
+Options:
+  1. He finds a public reading panel, thumbs it, and the file comes up clean:
+     number resolved, alive, the death-date behind him and plainly missed.
+     Relief, straight. He's a man who got away with it. (gentle — pure good
+     news, nothing spent, and it dodges the beat's teeth: the wrong tense.)
+  2. He has Tuko pull the file to a dead corner-panel (Tuko stays the sparse
+     Ch1 tool — fetches, doesn't explain). The number resolves LIVE. Under it,
+     his own death written the way he caught it writing Lim's: past tense,
+     done, dated to a day now behind him — REDUCED, filed, finished — and he's
+     sitting there with a pulse. The machine doesn't make that kind of mistake,
+     so either the sentence MISSED or he's reading his own obituary breathing.
+     Both are the wrong tense turned on him. He names BANTAY. The cost: the
+     number is live again. He's back on the count, countable, on the wall, and
+     he walked here and did it to himself. (medium-costly: no un-knowing it,
+     and the hiding is over for good — he's a filed man again.)
+  3. Same reading, but the act of reading his own sealed sentence trips the
+     same wire it tripped in Ch1 ("you read a sentence that wasn't meant for
+     reading") — pulling it flags him live to whoever watches the files, and
+     the number doesn't just resolve, it starts to MOVE, the clock he outran
+     ticking again from the moment he looked. (costly — but risks over-plotting
+     the beat and pulling the Editors in ahead of Act IV; hold the trip-wire
+     for later, keep Ch65 to the reading and what it does to him.)
+ROOT: nothing is tidier than a man who comes back and reads himself onto the
+  wall. Let him have the number. A counted man is a contained man.
+FRAGMENT: let him see the tense. Let him hold, in his own hand, the proof that
+  the pen can be wrong about a death — because the only crack a caged man needs
+  is one place the writing missed, and the first place he'll believe it is his
+  own file.
+Verdict:
+ADLAWAN, K. — Ch65. Had Tuko pull his file. The number came back live — he is
+counted again, on the wall, and he put himself there. Under it, his own
+reduction: past tense, done, dated to a day behind him, and he read it
+breathing. BANTAY had written his death and missed. He knows now the sentence
+can be wrong, and he knows it from the one file he can't doubt. RESOLVED.
