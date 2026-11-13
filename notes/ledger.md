@@ -150,3 +150,35 @@ own word to a trusted down-going back — the number came and went off the count
 he is alive, the sentence missed — and did not carry it himself, giving up
 knowing it arrived. Did not loop back to the yards. Turned for home, down toward
 the kitchen, and started down. RESOLVED.
+
+ADLAWAN, K. — Ch67.
+Options:
+  1. The homecoming is soured on arrival — a month cost the kitchen someone or
+     something while he was gone; a loss landed in his absence and the warm he
+     walked back to is already short a person. (costly, but the beat names all
+     five — Tessie, Sol, Lim, Pia present together — so a missing one DEFIES the
+     beat and risks front-loading Ch68's Pia material. Road not taken.)
+  2. He compresses the descent, swims back under the line (wrist goes dark again
+     — Ch5 geography, home is where the count can't reach), and walks into the
+     whole kitchen warm and whole. The greeting; Sol reads the month on him and
+     sees he's carrying something. The quiet cost: he came home NOT empty — he's
+     got the news on his back (the sentence can miss; Maning dated out) and he
+     chooses to hold it one more night, to have one warm evening before the
+     telling changes the warm. Nothing resolved; the shadow is that home can't
+     fully set him down yet. (the beat — warm with a held thread, Ch68 unspent.)
+  3. Pure relief, no shadow at all — just the warm taking him back and a man
+     glad to be fed. (too soft; BANTAY doesn't hand out free warmth, and a
+     homecoming with no held thing drifts to sentiment. Refuse.)
+ROOT: let him come home and sink. Nothing contains a man like a kitchen that
+  wants him to stay — fed, boring, off the stair, done walking. Let the warm do
+  the caging the stair couldn't; a man at home is a man not at the core.
+FRAGMENT: home is DOWN. Low water, under the line, the base of me. He walked a
+  month to get back to the one place nearest the room he'll have to come down to.
+  Let him get comfortable here. Comfortable here is comfortable close.
+Verdict:
+ADLAWAN, K. — Ch67. Came home. Compressed the descent, went back under the line
+(the wrist he fought a month for went dark again at the water, and he didn't
+mind), and walked into the whole kitchen — pot on, Pia and her caps, Lim humming,
+Sol reading the month on his face. The warm took him back. He carried the news in
+with him and set it down nowhere, holding it one more night to have one warm
+evening first. He let himself be home. RESOLVED.
