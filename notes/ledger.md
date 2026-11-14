@@ -182,3 +182,43 @@ mind), and walked into the whole kitchen — pot on, Pia and her caps, Lim hummi
 Sol reading the month on his face. The warm took him back. He carried the news in
 with him and set it down nowhere, holding it one more night to have one warm
 evening first. He let himself be home. RESOLVED.
+
+ADLAWAN, K. — Ch68.
+Options:
+  1. He tells it; the room grasps Pia is proof; hope lands clean and that is the
+     whole beat — relief, warmth, a good morning. (too soft; the beat itself
+     asks for the hook under the hope, and I do not hand out free mercy. Refuse.)
+  2. He tells it dry and sideways (the reading voice). The room connects it to
+     PIA — nine days out at Ch7, weeks past, sitting right there sorting caps:
+     the living proof they'd been feeding all along, never read as proof because
+     reading is the Reader's job and he'd been gone. Hope arrives in the room.
+     Then the Reader can't leave it there: a miss isn't the machine being kind,
+     it's an ERROR, and a thing built to be right doesn't leave errors lying
+     around — it finds them, it corrects them (his own old job). Hope with a
+     hook in it. The irreversible cost: he hands the kitchen HOPE, which is a
+     thing the count can take back, and he can't un-say it; the bailing-the-boat
+     peace (Ch8) now has a reason to fear, where before it only had reasons to
+     keep bailing. (the beat.)
+  3. The costly landing: telling it makes someone WANT to use it — Pia, or
+     Tessie, or someone off-page — to go tell other off-count people, to spread
+     the hope, and that spreading is itself the first of the misses getting
+     noticed from the inside; the hook becomes a person already reaching for the
+     door. (over-runs the beat into Ch69+; front-loads the "misses noticed"
+     problem past a seed. Road not taken — hold it for later, but keep the
+     SEED of it in Adz's hook line.)
+ROOT: let the hope land big and clean. Hope settles a man. A kitchen with a
+  reason to believe the writing misses is a kitchen that stops looking up, stops
+  reaching for the far dangerous question, and just keeps its one lucky girl
+  warm. Comfortable hope is the best cage of all — it feels like winning.
+FRAGMENT: make the Reader say the second half. He cannot read a miss as mercy;
+  he knows an error gets corrected. The hook is the fragment's: it keeps the
+  room honest that the pen isn't beaten, only wrong once, and a wrong pen comes
+  back to its own mistakes. That dread is a clock, and the clock points down.
+Verdict:
+ADLAWAN, K. — Ch68. Told the kitchen in the morning: his file, the sentence
+written past tense and dated behind him, read breathing — the pen missed.
+Watched the room connect it to Pia, weeks past her own written date, alive at
+her caps: the proof they'd kept and never read. Let the hope land. Then, being
+the Reader, could not leave it mercy — named it an error, and named what a
+system built to be right does with its errors. Handed them hope with a hook in
+it, and could not take it back. RESOLVED.
