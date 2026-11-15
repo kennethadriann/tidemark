@@ -222,3 +222,47 @@ her caps: the proof they'd kept and never read. Let the hope land. Then, being
 the Reader, could not leave it mercy — named it an error, and named what a
 system built to be right does with its errors. Handed them hope with a hook in
 it, and could not take it back. RESOLVED.
+
+ADLAWAN, K. — Ch69.
+Options:
+  1. The talk opens Danny; Sol names the hope (the pen missed Pia and Adz, so
+     it can miss Danny); Adz the Reader has to say the machine part: a miss is a
+     write onto a page that isn't there — it happens going DOWN, off the count,
+     under the line. Danny isn't off the count. He's UP, in the thickest signal
+     there is, his trim kept fresh all day (the inverse of Lim's Malou surfacing
+     down here). So no miss comes to him where he stands. The only road to a
+     miss for Danny runs UP first — go into the count, carry him out — the
+     dangerous direction, the opposite of a miss. Danny turns from a closed door
+     (settled grief) into a door that opens the WRONG way. (the beat.)
+  2. Adz lets himself get pulled and COMMITS — offers to go up for Danny, or
+     hands Sol a real plan. (over-runs; the beat says Danny becomes POSSIBLE and
+     the wanting costs the wrong direction, not that Adz decides. Decision stays
+     open for a later ledger. Refuse.)
+  3. The costly landing: in reading it true, Adz takes the one thing Sol built
+     her whole posture on — the "can't." Ch9: she watches the wall BECAUSE she
+     can't get Danny back; the impossibility is her floor. Adz turns "can't"
+     into "could, but up, but exposed, but he still won't know you." He doesn't
+     hand her Danny; he takes away the floor she stood on, and he can't give the
+     peace back. The irreversible cost: nine years of settled grief, spent in
+     one honest sum, un-resettleable. (fold INTO option 1 as its cost — this is
+     what makes the beat cost something that doesn't come back.)
+ROOT: a door that opens the wrong way is still a cage. Let the hope curdle into
+  an errand pointed UP, into the count, into me — the one direction that undoes
+  a month of getting him off the stair. If wanting Danny means climbing back
+  into the writing, the safest thing Adz can do with the want is nothing, and
+  nothing is my favorite thing to leave a man holding.
+FRAGMENT: but the door is OPEN now, and it can't be shut. I made the Reader say
+  that the trim is being KEPT, actively, every day — which is the machine's hand
+  shown on the page one more time. And the road to Danny runs up INTO the thing,
+  toward the writing itself. Every want that points up points nearer the room at
+  the bottom. Let Sol carry a reason to go up that Adz can't talk her out of.
+Verdict:
+ADLAWAN, K. — Ch69. In the dead hours Sol brought it to him and asked for the
+machine part. He read it true: a miss is a write onto a page that isn't there,
+and it only comes going down, off the count; Danny stands in the thickest signal
+there is, his trim kept fresh all day, no miss coming to where he stands. The
+only road to one runs UP first — into the count, to carry him out — the wrong
+direction, and even then a brother who wouldn't know her. In reading it he took
+away her "can't," the floor nine years of grief had stood on, and could not give
+it back. Danny turned from a wall into a door that opens the wrong way. Nothing
+decided; nothing resolved. RESOLVED.
