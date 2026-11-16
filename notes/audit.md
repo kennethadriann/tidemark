@@ -363,3 +363,58 @@ Changes made:
 - .claude/commands/audit.md: audits now check plan, clocks, cast, dialogue, and
   voice vs Ch1 before tics.
 - NEXT: Ch63 is a time skip to the top stop, with contact.
+
+---
+
+## 2026-11-16 — Weekly drift check (window: Ch63–69)
+
+First weekly audit since the 2026-10-02 flow reset. Headline: the reset is
+HOLDING. This window is the healthiest 7-chapter stretch in a long time.
+
+- **PLAN — ON TIME.** Act III-a milestones hit on their exact chapters: Ch63
+  top stop + recognized + wrist-check revealed; Ch64 thick signal / wrist wakes
+  / Tuko returns; Ch65 file read, 11-day date BEHIND him, BANTAY named; Ch66
+  word sent down + turns for home. Act III-b opened on time: Ch67 homecoming
+  (cast reunited), Ch68 Pia-miss realized (hope + the "a miss is an error it
+  comes back to fix" hook), Ch69 Danny opened as a door that opens the wrong
+  way. Ch69 is the first half of the Ch69–70 Sol/Adz Danny beat. No catch-up
+  needed. NEXT BEAT (Ch70) stands.
+- **CLOCKS — tracked, on the page.** ~5.5 weeks since Ch1. Adz's 11 days read
+  dead-and-behind-him alive (Ch65: "days behind me"); Pia's 9 days named as
+  four weeks gone (Ch68). Nothing frozen or dodged. Good.
+- **CAST.** BANTAY named Ch65 (closed the Ch11→Ch65 gap). Tuko back Ch64–65,
+  kept SPARSE (fetch-tool only — correct). Sol/Tessie/Pia/Lim all current
+  (Ch67–69). TWO holds to honor, both now overdue and both PLANNED next:
+  Maning offstage since Ch57 (~12 ch) — he MUST arrive Ch71, do not slip it;
+  Editors offstage since Ch4 (~65 ch) — they MUST move Ch72, do not slip it.
+- **DIALOGUE — fixed.** All 7 chapters have dialogue. The Ch58–62 silent run
+  is fully reversed. Keep it.
+- **VOICE vs Ch1 — on-model.** Ch69's backup/overwrite bit, Ch64 "more boring
+  than trouble," Ch63 "hunger's like a bad coworker" are Ch1's modern data-guy
+  register with real jokes. No folksy register found. Short-to-medium paras.
+  WATCH: the quiet kitchen chapters (Ch67–69) lean toward a profound button at
+  paragraph's end (Ch69's "a door you can't walk through you just end up
+  standing in front of"; "two cups nobody's drinking"). Earned here, but it's
+  the reflex Ch1 doesn't have — let plain things stay plain.
+- **LEDGER — brave, not gentle.** Ch69's verdict took Sol's "can't" (nine
+  years of settled grief, un-resettleable) — the costly option, irreversible,
+  not the soft one. Fragment is winning the right amount (errand points UP,
+  toward the core, on-plan). No verdict quietly undone. Root is NOT re-running
+  the Ch16–62 containment stall; every chapter changed something.
+
+### Concrete fixes / watches for Ch70+
+1. **Ch70 is the THIRD straight two-person kitchen talk (68, 69, 70).** It must
+   turn from Adz-explains-the-machine into INTENT — a reach for the door — per
+   the NEXT BEAT, not a fourth mechanics lecture. After it, the plan needs
+   BODIES: deliver Maning on-page Ch71 and the Editors' move Ch72. Don't let
+   kitchen-seminar mode eat those.
+2. **Rest the tic "I said, out loud, to nobody"** — 3x across Ch64–66 (self-
+   flagged "becoming a habit" by Ch66; now retire it).
+3. **"Here's the honest version [of…]"** as a time-skip opener — Ch63 and Ch67.
+   Fine twice; don't make it the standard compression tag.
+4. **state.md was 4721 bytes — over the ~4 KB cap.** Trimmed this run.
+5. Hold the reveal line: BANTAY named is as far as it goes; no "he built it"
+   (Act IV, by Ch80), no draw-down named, "careful was a leash" stays parked,
+   young-world crack rested. All on-map this window.
+
+*(Audit run — no chapter written. Next chapter is Ch70.)*
