@@ -79,6 +79,7 @@
 | 68 | The Count's Mistakes | done |
 | 69 | The Wrong Direction | done |
 | — | Ch63–69 weekly audit | done (2026-11-16) |
-| 70 | (title TBD) | pending |
+| 70 | The Handle | done |
+| 71 | (title TBD) | pending |
 
 _Weekly audits run as separate runs and do NOT take a chapter number — chapter numbering is continuous, no gaps. Audit windows so far: Ch7–13, Ch14–20, Ch21–27, Ch28–34, Ch35–41, Ch42–48, Ch49–55, Ch56–62, Ch63–69 (every 7). The Ch63–69 audit is DONE (2026-11-16; all in notes/audit.md). Verdict: the 2026-10-02 flow reset is HOLDING — healthiest 7-chapter stretch in a long time. ON PLAN (Act III-a milestones hit on their exact chapters Ch63–66; Act III-b opened on time Ch67–69); clocks on the page; dialogue in all 7 chapters (Ch58–62 silent run reversed); voice on-model (Ch1 data-guy jokes); BANTAY named again (Ch65), Tuko back and kept sparse (Ch64–65); ledger brave, not gentle (Ch69 took Sol's "can't"). WATCHES for Ch70+: Ch70 is the 3rd straight two-person kitchen talk — make it INTENT (a reach for the door), not a 4th mechanics lecture; then the plan needs bodies — deliver Maning on-page Ch71 (offstage since Ch57) and the Editors' move Ch72 (offstage since Ch4); rest the "I said, to nobody" tic; keep the reveal line held. Next milestone: Ch70 (finish the Sol/Adz Danny beat — the open door turns into a reach). See notes/state.md for the live NEXT BEAT._

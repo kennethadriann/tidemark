@@ -266,3 +266,49 @@ direction, and even then a brother who wouldn't know her. In reading it he took
 away her "can't," the floor nine years of grief had stood on, and could not give
 it back. Danny turned from a wall into a door that opens the wrong way. Nothing
 decided; nothing resolved. RESOLVED.
+
+ADLAWAN, K. — Ch70.
+Options:
+  1. The reach: next day. Sol comes past the question. She brings him not to the
+     low table a third time but to the ARCHIVE WALL, and asks not "should we"
+     but the HOW — "tell me how you got Pia, like I'm going to do it." The want
+     has become intent; she is reaching for the door. And the door has a HANDLE,
+     and the handle is Adz: the "how" is finding a gap in the machine's
+     attention, and finding a gap is READING. Lim's gone soft, Sol can't read a
+     slate, Pia's seven. The only Reader in the kitchen is the lazy one who
+     walked a month to stop being read. So the reach lands on him; the errand
+     points at HIM again. (the beat.)
+  2. Adz COMMITS or hands her a real plan / route. (over-runs; the beat is the
+     door turning into a reach and the handle landing on him — HOW/cost/whether
+     he goes stays open for a later ledger. Refuse.)
+  3. The costly landing (fold into 1): when Sol reaches for the hard door, the
+     first thing that moves in Adz is not the plan — it's the EXIT. OUT. The
+     canon temptation made personal for the first time: take the ones we've got,
+     walk past the edge, be poor and uncounted and alive, let the Spire rot. The
+     Ch12 REVERSAL — Sol once named out's cost to HIM; now he's the one holding
+     the cheap door while she reaches for the hard one. The irreversible: he
+     thought a month of walking back had burned the run-instinct out of him.
+     It hadn't. The leash is intact. He reaches for the exit the second it gets
+     real, and now she's seen it. He can't un-flinch in front of her.
+ROOT: let him take the out. Out is the best cage I have — it feels like love
+  (save the ones you can) and it leaves Danny on the wall, the count intact, the
+  Reader walking AWAY from me instead of up toward the room at the bottom. If I
+  can get him to want the exit, I don't have to write him a single step closer.
+FRAGMENT: but she's reaching, and I built the handle out of HIM. Every road to
+  Danny runs UP, into the count, toward the writing — and the only one who can
+  read that road is the maker. Let him flinch, let him see the flinch, and let
+  her reach anyway. A want pointed up that he can't talk her out of is a want
+  pointed at me. The door is open and the handle is his hand.
+Verdict:
+ADLAWAN, K. — Ch70. The door didn't shut overnight. Sol found him at the
+archive wall and asked not whether but HOW — tell me how you got Pia, like I'm
+going to do it. The question had become a reach. He saw the door had a handle
+and the handle was him: the how is reading a gap in the machine's attention, and
+he's the only Reader left standing in the kitchen, the lazy one who walked a
+month to stop being read. And when she reached for the hard door, the first
+thing that moved in him was the exit — OUT, take the ones we've got and go be
+uncounted and alive. He'd thought the month had burned that out of him. It
+hadn't. He named it, or near enough, and she heard it; the man who once got the
+cost of out named TO him was now the one holding the cheap door while she reached
+for the hard one. Nothing decided. The door stayed open and the handle stayed
+his. RESOLVED.
