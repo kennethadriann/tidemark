@@ -312,3 +312,44 @@ hadn't. He named it, or near enough, and she heard it; the man who once got the
 cost of out named TO him was now the one holding the cheap door while she reached
 for the hard one. Nothing decided. The door stayed open and the handle stayed
 his. RESOLVED.
+
+---
+
+ADLAWAN, K. — Ch71.
+Options:
+  1. Maning arrives, a warm reunion, a body added to the room, hope — the
+     kitchen is stronger, nothing is spent. (gentle — and dodges that his
+     coming is a bet he made with his whole life on the maker's say-so.)
+  2. Maning arrives having come DOWN on his own read of Adz (the three-line word
+     reached him; he took weeks to decide what to do with it). The cost: he quit
+     a whole built far-man life and bet it on Adz's maybe — "come down, the
+     writing holds softer" — a maybe backed by one humming man. He is now a dead
+     man in a warm room on Adz's word; another name on the owing list, in the
+     flesh, by the stove. AND the quiet thing underneath the glad: Maning is the
+     one man alive who knows the up-country in his feet. The only live want in
+     that room points UP into exactly that ground. Adz had been leaning on "only
+     I can read the up-road, and I don't want to" — two weeks of excuse. Now a
+     man who can WALK it is sitting at the fire. The excuse loses half its weight
+     without anyone deciding anything. (costly: the out-door shrinks; the up-road
+     quietly assembles itself in a kitchen while they call it a reunion.)
+  3. Maning arrives and is pulled straight into the Danny plan / the up-road
+     gets decided. (over-runs — decides the errand, Editors/fresh-name is Ch72;
+     HOW he reshapes Danny stays the next ledger's. Refuse.)
+ROOT: a settled far-man quitting his trade to come sit under the line is a man
+  SUBTRACTED from the up-country — off the roads, warm, boring, contained,
+  exactly where I keep my people. Let him come down and stop. One more off the
+  count, one more who will never climb. I can file this as a win.
+FRAGMENT: but he is the only man alive who reads the up-roads in his feet, and
+  the one want in that room runs up. Put the guide in the room with the reach and
+  the Reader and the woman who already decided, and I don't have to say the word
+  Danny. A man who can walk the up-country, next to a man who can read it, next
+  to a woman who has reached — that is the up-road building itself by the stove
+  while they call it supper. The door is open; now there are three hands near it.
+Verdict:
+ADLAWAN, K. — Ch71. Came up the shallow way wet to the waist with a load still on
+his back, weeks after Adz quit trying to carry him. Came down on his own read of
+the three-line word, having bet his built life on the maker's maybe. The kitchen
+made him a place; Tessie made him a bowl. He does not yet know Danny is a word.
+But the man who can walk the up-country is at the fire now, and Adz felt the room
+go quietly more able to do the hard thing he did not want to do. The out-door
+shrank by one man's weight. RESOLVED.
